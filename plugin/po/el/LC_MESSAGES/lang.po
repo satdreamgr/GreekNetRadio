@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2 plugin newmenu greek locale\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-25 23:37+0100\n"
-"PO-Revision-Date: 2012-10-27 02:08+0200\n"
-"Last-Translator: MCelliot_g <mcelliot_g@hotmail.com>\n"
+"POT-Creation-Date: 2012-11-13 14:49+0100\n"
+"PO-Revision-Date: 2012-11-29 23:30+0200\n"
+"Last-Translator: devil\n"
 "Language-Team: www.satdreamgr.com>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -16,18 +16,26 @@ msgstr ""
 "X-Poedit-SearchPath-0: /home/devil/Bureau/net/po\n"
 
 #: /home/devil/Bureau/net/po/plugin.py:105
-msgid "Fm Stations"
-msgstr "Fm Σταθμοί"
+msgid "Favorites"
+msgstr "Αγαπημένα"
 
 #: /home/devil/Bureau/net/po/plugin.py:106
-msgid "Web Stations"
-msgstr "Web Σταθμοί"
+msgid "Greek Fm Stations"
+msgstr "Ελληνικοί Fm Σταθμοί"
 
 #: /home/devil/Bureau/net/po/plugin.py:107
+msgid "Greek Web Stations"
+msgstr "Ελληνικοί Web Σταθμοί"
+
+#: /home/devil/Bureau/net/po/plugin.py:108
+msgid "International Stations"
+msgstr "Διεθνείς Σταθμοί"
+
+#: /home/devil/Bureau/net/po/plugin.py:109
 msgid "Update Stations"
 msgstr "Αναβάθμιση σταθμών"
 
-#: /home/devil/Bureau/net/po/plugin.py:108
+#: /home/devil/Bureau/net/po/plugin.py:110
 #, python-format
 msgid "About %s"
 msgstr "Περί %s"
@@ -36,18 +44,43 @@ msgstr "Περί %s"
 msgid "Confirm your selection, or exit"
 msgstr "Επιβεβαιώσετε την επιλογή σας, Exit να εξέλθετε!"
 
-#: /home/devil/Bureau/net/po/plugin.py:131
+#: /home/devil/Bureau/net/po/plugin.py:130
 msgid "Install sources"
 msgstr "Εγκατάσταση πηγών"
 
-#: /home/devil/Bureau/net/po/plugin.py:143
-#: /home/devil/Bureau/net/po/plugin.py:243
-msgid "Press OK to Play or button yellow"
-msgstr "Πιέστε ΟΚ για αναπαραγωγή ή το κίτρινο πλήκτρο"
+#: /home/devil/Bureau/net/po/plugin.py:178
+msgid "Exit"
+msgstr "Έξοδος"
 
-#: /home/devil/Bureau/net/po/plugin.py:327
+#: /home/devil/Bureau/net/po/plugin.py:179
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: /home/devil/Bureau/net/po/plugin.py:198
+msgid "Press OK to Play, Green to delete,  or EXIT"
+msgstr "Πιέστε ΟΚ για αναπαραγωγή, πράσινο για διαγραφή, Exit για έξοδο"
+
+#: /home/devil/Bureau/net/po/plugin.py:290
+msgid "Press UP or DOWN to change stations , EXIT to quit"
+msgstr "Πιέστε πάνω η κάτω βέλος για αλλαγή σταθμού, Exit για έξοδο"
+
+#: /home/devil/Bureau/net/po/plugin.py:380
+#: /home/devil/Bureau/net/po/plugin.py:449
+#: /home/devil/Bureau/net/po/plugin.py:559
+msgid "Press OK to Play, or button yellow add to favorites"
+msgstr ""
+"Πιέστε ΟΚ για αναπαραγωγή, ή το κίτρινο πλήκτρο για προσθήκη στα αγαπημένα"
+
+#: /home/devil/Bureau/net/po/plugin.py:436
+#: /home/devil/Bureau/net/po/plugin.py:506
+#: /home/devil/Bureau/net/po/plugin.py:618
+msgid "Saved to Favorites"
+msgstr "Αποθήκευση στα αγαπημένα"
+
+#: /home/devil/Bureau/net/po/plugin.py:667
 msgid "Listen to your greek music"
-msgstr "Ελληνικά ραδιόφωνα στο διαδίκτυο"
+msgstr "Ελληνικά Ραδιόφωνα"
 
-#~ msgid "Press OK to Play, or button yellow"
-#~ msgstr "Πιέστε ΟΚ για αναπαραγωγή, ή το κίτρινο πλήκτρο"
+#, fuzzy
+#~ msgid "Press OK to add to favorites"
+#~ msgstr "Πιέστε ΟΚ για αναπαραγωγή ή το κίτρινο πλήκτρο"
