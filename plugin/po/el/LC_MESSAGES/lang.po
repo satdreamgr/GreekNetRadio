@@ -1,86 +1,96 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: enigma2 plugin newmenu greek locale\n"
+"Project-Id-Version: enigma2-plugin-extensions-greeknetradio\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-11-13 14:49+0100\n"
-"PO-Revision-Date: 2012-11-29 23:30+0200\n"
+"POT-Creation-Date: 2019-12-06 01:28+0200\n"
+"PO-Revision-Date: 2019-12-06 01:29+0200\n"
 "Last-Translator: devil\n"
-"Language-Team: www.satdreamgr.com>\n"
+"Language-Team: SatDreamGr\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Basepath: /home/devil/Bureau/net/po\n"
+"X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.5.4\n"
-"X-Poedit-SearchPath-0: /home/devil/Bureau/net/po\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
 
-#: /home/devil/Bureau/net/po/plugin.py:105
-msgid "Favorites"
-msgstr "Αγαπημένα"
+#: plugin.py:66 plugin.py:134 plugin.py:302
+msgid "Internet radio"
+msgstr "Διαδικτυακό ραδιόφωνο"
 
-#: /home/devil/Bureau/net/po/plugin.py:106
-msgid "Greek Fm Stations"
-msgstr "Ελληνικοί Fm Σταθμοί"
+#: plugin.py:68 plugin.py:140
+msgid "Close"
+msgstr "Κλείσιμο"
 
-#: /home/devil/Bureau/net/po/plugin.py:107
-msgid "Greek Web Stations"
-msgstr "Ελληνικοί Web Σταθμοί"
+#: plugin.py:69
+msgid "Select"
+msgstr "Επιλογή"
 
-#: /home/devil/Bureau/net/po/plugin.py:108
-msgid "International Stations"
-msgstr "Διεθνείς Σταθμοί"
+#: plugin.py:70
+msgid "Update stations"
+msgstr "Ενημέρωση σταθμών"
 
-#: /home/devil/Bureau/net/po/plugin.py:109
-msgid "Update Stations"
-msgstr "Αναβάθμιση σταθμών"
+#: plugin.py:71
+msgid "About"
+msgstr "Περί"
 
-#: /home/devil/Bureau/net/po/plugin.py:110
-#, python-format
-msgid "About %s"
-msgstr "Περί %s"
+#: plugin.py:74 plugin.py:226
+msgid "Favourite stations"
+msgstr "Αγαπημένοι σταθμοί"
 
-#: /home/devil/Bureau/net/po/plugin.py:127
-msgid "Confirm your selection, or exit"
-msgstr "Επιβεβαιώσετε την επιλογή σας, Exit να εξέλθετε!"
+#: plugin.py:75 plugin.py:271
+msgid "Greek FM stations"
+msgstr "Ελληνικοί FM σταθμοί"
 
-#: /home/devil/Bureau/net/po/plugin.py:130
-msgid "Install sources"
-msgstr "Εγκατάσταση πηγών"
+#: plugin.py:76 plugin.py:278
+msgid "Greek web stations"
+msgstr "Ελληνικοί web σταθμοί"
 
-#: /home/devil/Bureau/net/po/plugin.py:178
-msgid "Exit"
-msgstr "Έξοδος"
+#: plugin.py:77 plugin.py:285
+msgid "International stations"
+msgstr "Διεθνείς σταθμοί"
 
-#: /home/devil/Bureau/net/po/plugin.py:179
+#: plugin.py:105
+msgid "Updating stations..."
+msgstr "Γίνεται ενημέρωση σταθμών..."
+
+#: plugin.py:107
+msgid "Do you really want to update the stations list?"
+msgstr "Θέλετε σίγουρα να ενημερώσετε τη λίστα σταθμών;"
+
+#: plugin.py:111
+msgid "Internet radio plugin by SatDreamGR"
+msgstr "Πρόσθετο διαδικτυακού ραδιοφώνου από το SatDreamGR"
+
+#: plugin.py:113
+msgid "For information or questions please refer to the www.satdreamgr.com forum."
+msgstr "Για πληροφορίες ή ερωτήσεις ανατρέξτε στο www.satdreamgr.com."
+
+#: plugin.py:171 plugin.py:239
+msgid "Play"
+msgstr "Αναπαραγωγή"
+
+#: plugin.py:172
+msgid "Add to favourites"
+msgstr "Προσθήκη στα αγαπημένα"
+
+#: plugin.py:185
+msgid "Stop"
+msgstr "Διακοπή"
+
+#: plugin.py:211
+msgid "Station successfully added to favourites"
+msgstr "Ο σταθμός προστέθηκε με επιτυχία στα αγαπημένα"
+
+#: plugin.py:240
 msgid "Delete"
 msgstr "Διαγραφή"
 
-#: /home/devil/Bureau/net/po/plugin.py:198
-msgid "Press OK to Play, Green to delete,  or EXIT"
-msgstr "Πιέστε ΟΚ για αναπαραγωγή, πράσινο για διαγραφή, Exit για έξοδο"
+#: plugin.py:261
+msgid "Station successfully deleted from favourites"
+msgstr "Ο σταθμός αφαιρέθηκε με επιτυχία από τα αγαπημένα"
 
-#: /home/devil/Bureau/net/po/plugin.py:290
-msgid "Press UP or DOWN to change stations , EXIT to quit"
-msgstr "Πιέστε πάνω η κάτω βέλος για αλλαγή σταθμού, Exit για έξοδο"
-
-#: /home/devil/Bureau/net/po/plugin.py:380
-#: /home/devil/Bureau/net/po/plugin.py:449
-#: /home/devil/Bureau/net/po/plugin.py:559
-msgid "Press OK to Play, or button yellow add to favorites"
-msgstr ""
-"Πιέστε ΟΚ για αναπαραγωγή, ή το κίτρινο πλήκτρο για προσθήκη στα αγαπημένα"
-
-#: /home/devil/Bureau/net/po/plugin.py:436
-#: /home/devil/Bureau/net/po/plugin.py:506
-#: /home/devil/Bureau/net/po/plugin.py:618
-msgid "Saved to Favorites"
-msgstr "Αποθήκευση στα αγαπημένα"
-
-#: /home/devil/Bureau/net/po/plugin.py:667
-msgid "Listen to your greek music"
-msgstr "Ελληνικά Ραδιόφωνα"
-
-#, fuzzy
-#~ msgid "Press OK to add to favorites"
-#~ msgstr "Πιέστε ΟΚ για αναπαραγωγή ή το κίτρινο πλήκτρο"
+#: plugin.py:304
+msgid "Listen to your favourite radio stations"
+msgstr "Ακούστε τους αγαπημένους σας ραδιοφωνικούς σταθμούς"
