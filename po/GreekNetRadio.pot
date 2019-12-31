@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GreekNetRadio\n"
+"POT-Creation-Date: 2019-12-31 19:26+0200\n"
+"PO-Revision-Date: 2019-12-31 19:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ../plugin\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin.py:59 plugin.py:127 plugin.py:295
+msgid "Internet radio"
+msgstr ""
+
+#: plugin.py:61 plugin.py:133
+msgid "Close"
+msgstr ""
+
+#: plugin.py:62
+msgid "Select"
+msgstr ""
+
+#: plugin.py:63
+msgid "Update stations"
+msgstr ""
+
+#: plugin.py:64
+msgid "About"
+msgstr ""
+
+#: plugin.py:67 plugin.py:219
+msgid "Favourite stations"
+msgstr ""
+
+#: plugin.py:68 plugin.py:264
+msgid "Greek FM stations"
+msgstr ""
+
+#: plugin.py:69 plugin.py:271
+msgid "Greek web stations"
+msgstr ""
+
+#: plugin.py:70 plugin.py:278
+msgid "International stations"
+msgstr ""
+
+#: plugin.py:98
+msgid "Updating stations..."
+msgstr ""
+
+#: plugin.py:100
+msgid "Do you really want to update the stations list?"
+msgstr ""
+
+#: plugin.py:104
+msgid "Internet radio plugin by SatDreamGR"
+msgstr ""
+
+#: plugin.py:106
+msgid "For information or questions please refer to the www.satdreamgr.com forum."
+msgstr ""
+
+#: plugin.py:164 plugin.py:232
+msgid "Play"
+msgstr ""
+
+#: plugin.py:165
+msgid "Add to favourites"
+msgstr ""
+
+#: plugin.py:178
+msgid "Stop"
+msgstr ""
+
+#: plugin.py:204
+msgid "Station successfully added to favourites"
+msgstr ""
+
+#: plugin.py:233
+msgid "Delete"
+msgstr ""
+
+#: plugin.py:254
+msgid "Station successfully deleted from favourites"
+msgstr ""
+
+#: plugin.py:297
+msgid "Listen to your favourite radio stations"
+msgstr ""
