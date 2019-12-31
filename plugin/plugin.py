@@ -1,3 +1,4 @@
+from . import _
 from Components.ActionMap import ActionMap
 from Components.config import config, ConfigSubsection, ConfigSubList, ConfigNumber, ConfigText, configfile
 from Components.MenuList import MenuList
@@ -9,14 +10,6 @@ from Screens.Screen import Screen
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from enigma import eServiceReference
 import xml.dom.minidom
-import gettext
-
-
-try:
-	cat = gettext.translation('lang', resolveFilename(SCOPE_PLUGINS, 'Extensions/GreekNetRadio/po'), [config.osd.language.getText()])
-	_ = cat.gettext
-except IOError:
-	pass
 
 
 url_sc = resolveFilename(SCOPE_PLUGINS, "Extensions/GreekNetRadio/flex.sh")
