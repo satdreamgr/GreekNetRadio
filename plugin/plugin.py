@@ -42,16 +42,16 @@ initConfig()
 class GreekNetRadio(Screen):
 
     skin = """
-        <screen position="center,center" size="560,420" title="Internet radio">
-            <ePixmap pixmap="buttons/red.png" position="0,0" size="140,40" alphatest="on"/>
-            <ePixmap pixmap="buttons/green.png" position="140,0" size="140,40" alphatest="on"/>
-            <ePixmap pixmap="buttons/yellow.png" position="280,0" size="140,40" alphatest="on"/>
-            <ePixmap pixmap="buttons/blue.png" position="420,0" size="140,40" alphatest="on"/>
-            <widget source="key_red" render="Label" position="0,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#9f1313" transparent="1"/>
-            <widget source="key_green" render="Label" position="140,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#1f771f" transparent="1"/>
-            <widget source="key_yellow" render="Label" position="280,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#a08500" transparent="1"/>
-            <widget source="key_blue" render="Label" position="420,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#18188b" transparent="1"/>
-            <widget name="menu" position="10,60" size="680,350" itemHeight="35" font="Regular;22" scrollbarMode="showOnDemand"/>
+        <screen position="center,center" size="3*e/4,3*e/4" title="Internet radio">
+            <widget name="menu" position="0,10" size="e,e-60" itemHeight="40" font="Body" textOffset="10,0" scrollbarMode="showOnDemand"/>
+            <ePixmap pixmap="buttons/key_red.png" position="0,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_green.png" position="e/4,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_yellow.png" position="e/2,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_blue.png" position="3*e/4,e-40" size="40,40" alphatest="blend"/>
+            <widget source="key_red" render="Label" position="40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_green" render="Label" position="e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_yellow" render="Label" position="e/2+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_blue" render="Label" position="3*e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
         </screen>"""
 
     def __init__(self, session):
@@ -110,16 +110,16 @@ class GreekNetRadio(Screen):
 class GreekNetRadioCategory(Screen):
 
     skin = """
-        <screen position="center,center" size="560,420" title="Internet radio">
-            <ePixmap pixmap="buttons/red.png" position="0,0" size="140,40" alphatest="on"/>
-            <ePixmap pixmap="buttons/green.png" position="140,0" size="140,40" alphatest="on"/>
-            <ePixmap pixmap="buttons/yellow.png" position="280,0" size="140,40" alphatest="on"/>
-            <ePixmap pixmap="buttons/blue.png" position="420,0" size="140,40" alphatest="on"/>
-            <widget source="key_red" render="Label" position="0,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#9f1313" transparent="1"/>
-            <widget source="key_green" render="Label" position="140,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#1f771f" transparent="1"/>
-            <widget source="key_yellow" render="Label" position="280,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#a08500" transparent="1"/>
-            <widget source="key_blue" render="Label" position="420,0" zPosition="1" size="140,40" font="Regular;20" halign="center" valign="center" backgroundColor="#18188b" transparent="1"/>
-            <widget name="menu" position="10,60" size="680,350" itemHeight="35" font="Regular;22" scrollbarMode="showOnDemand"/>
+        <screen position="center,center" size="3*e/4,3*e/4" title="Internet radio">
+            <widget name="menu" position="0,10" size="e,e-60" itemHeight="40" font="Body" textOffset="10,0" scrollbarMode="showOnDemand"/>
+            <ePixmap pixmap="buttons/key_red.png" position="0,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_green.png" position="e/4,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_yellow.png" position="e/2,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_blue.png" position="3*e/4,e-40" size="40,40" alphatest="blend"/>
+            <widget source="key_red" render="Label" position="40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_green" render="Label" position="e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_yellow" render="Label" position="e/2+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_blue" render="Label" position="3*e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
         </screen>"""
 
     def __init__(self, session, tag=""):
