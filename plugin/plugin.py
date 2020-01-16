@@ -12,8 +12,6 @@ from enigma import eServiceReference
 import xml.dom.minidom
 
 
-url_sc = resolveFilename(SCOPE_PLUGINS, "Extensions/GreekNetRadio/flex.sh")
-
 config.plugins.Cradio = ConfigSubsection()
 config.plugins.Cradio.stations = ConfigSubList()
 config.plugins.Cradio.stations_count = ConfigNumber(default=0)
@@ -95,7 +93,7 @@ class GreekNetRadio(Screen):
     def update(self):
         def updateCb(answer):
             if answer is True:
-                self.session.open(Console, _("Updating stations..."), ["%s stations" % url_sc])
+                self.session.open(Console, _("Updating stations..."), ["{0}/flex.sh {0}".format(resolveFilename(SCOPE_PLUGINS, "Extensions/GreekNetRadio"))])
 
         msg = _("Do you really want to update the stations list?")
         self.session.openWithCallback(updateCb, MessageBox, msg, MessageBox.TYPE_YESNO)
