@@ -1,27 +1,16 @@
 #!/bin/sh
-cd /
-echo -------------------------------------------------------------------------
-echo $1
-echo -------------------------------------------------------------------------
-case $1 in
-#########update epg ###############
-"stations")
-URLL="http://sgcpm.com/radio/fmstations"
-URL="http://sgcpm.com/radio/webstations"
-URLI="http://sgcpm.com/radio/interstations"
-                                 if wget -q -O /tmp/fmstations $URLL && wget -q -O /tmp/webstations $URL && wget -q -O /tmp/interstations $URLI
+URL_FM="http://sgcpm.com/radio/fmstations"
+URL_WEB="http://sgcpm.com/radio/webstations"
+URL_INTER="http://sgcpm.com/radio/interstations"
+
+if wget -q -O /tmp/fmstations $URL_FM && wget -q -O /tmp/webstations $URL_WEB && wget -q -O /tmp/interstations $URL_INTER
 
 then
-                                 mv /tmp/fmstations /usr/lib/enigma2/python/Plugins/Extensions/GreekNetRadio
-                                 mv /tmp/webstations /usr/lib/enigma2/python/Plugins/Extensions/GreekNetRadio
-                                 mv /tmp/interstations /usr/lib/enigma2/python/Plugins/Extensions/GreekNetRadio
-				 else
-				 echo "error!"
+mv /tmp/fmstations $1
+mv /tmp/webstations $1
+mv /tmp/interstations $1
+echo "stations updated successfully"
+else
+echo "error downloading stations"
 fi
-;;
-
-*)
-echo "error"
-;;
-
-esac
+echo
