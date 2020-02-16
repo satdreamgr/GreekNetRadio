@@ -1,14 +1,16 @@
 from . import _
 from Components.ActionMap import ActionMap
 from Components.config import config, ConfigSubsection, ConfigSubList, ConfigNumber, ConfigText, configfile
+from Components.Label import Label
 from Components.MenuList import MenuList
+from Components.ServiceEventTracker import ServiceEventTracker
 from Components.Sources.StaticText import StaticText
 from Plugins.Plugin import PluginDescriptor
 from Screens.Console import Console
 from Screens.MessageBox import MessageBox
 from Screens.Screen import Screen
 from Tools.Directories import resolveFilename, SCOPE_PLUGINS
-from enigma import eServiceReference
+from enigma import eServiceReference, iPlayableService, iServiceInformation
 import xml.dom.minidom
 
 
@@ -112,11 +114,9 @@ class GreekNetRadioCategory(Screen):
             <widget name="menu" position="0,10" size="e,e-60" itemHeight="40" font="Body" textOffset="10,0" scrollbarMode="showOnDemand"/>
             <ePixmap pixmap="buttons/key_red.png" position="0,e-40" size="40,40" alphatest="blend"/>
             <ePixmap pixmap="buttons/key_green.png" position="e/4,e-40" size="40,40" alphatest="blend"/>
-            <ePixmap pixmap="buttons/key_yellow.png" position="e/2,e-40" size="40,40" alphatest="blend"/>
             <ePixmap pixmap="buttons/key_blue.png" position="3*e/4,e-40" size="40,40" alphatest="blend"/>
             <widget source="key_red" render="Label" position="40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
             <widget source="key_green" render="Label" position="e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
-            <widget source="key_yellow" render="Label" position="e/2+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
             <widget source="key_blue" render="Label" position="3*e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
         </screen>"""
 
@@ -125,12 +125,8 @@ class GreekNetRadioCategory(Screen):
         self.setTitle(_("Internet radio"))
         self.skinName = ["GreekNetRadioCategory", "GreekNetRadio"]
 
-        self.currentService = self.session.nav.getCurrentlyPlayingServiceReference()
-        self.onClose.append(self.__onClose)
-
         self["key_red"] = StaticText(_("Close"))
         self["key_green"] = StaticText("")
-        self["key_yellow"] = StaticText("")
         self["key_blue"] = StaticText("")
 
         self.tag = tag
@@ -144,7 +140,6 @@ class GreekNetRadioCategory(Screen):
             "red": self.close,
             "ok": self.go,
             "green": self.go,
-            "yellow": self.yellow,
             "blue": self.blue,
         }, -2)
 
@@ -165,29 +160,12 @@ class GreekNetRadioCategory(Screen):
             pass
 
     def go(self):
-        station = self["menu"].getCurrent() or None
+        station = self["menu"].getCurrent()
         if station is not None:
-            self.play(station[0], station[1])
-
-    def play(self, name, url):
-        try:
-            self.session.nav.stopService()
-            self.session.nav.playService(eServiceReference(4097, 0, url))
-            self["key_yellow"].setText(_("Stop"))
-        except:
-            pass
-
-    def yellow(self):
-        current = self.session.nav.getCurrentlyPlayingServiceReference()
-        if current != self.currentService: # only stop internet radio
-            try:
-                self.session.nav.stopService()
-                self["key_yellow"].setText("")
-            except:
-                pass
+            self.session.open(GreekNetRadioPlayer, station[0], station[1])
 
     def blue(self):
-        station = self["menu"].getCurrent() or None
+        station = self["menu"].getCurrent()
         if station is not None:
             try:
                 current = initProfileConfig()
@@ -203,11 +181,6 @@ class GreekNetRadioCategory(Screen):
                 self.session.open(MessageBox, msg, MessageBox.TYPE_INFO, 5)
             except:
                 pass
-
-    def __onClose(self):
-        current = self.session.nav.getCurrentlyPlayingServiceReference()
-        if not current or current != self.currentService:
-            self.session.nav.playService(self.currentService)
 
 
 class FavouriteStations(GreekNetRadioCategory):
@@ -276,16 +249,49 @@ class InternationalStations(GreekNetRadioCategory):
         self.setTitle(_("International stations"))
 
 
+class GreekNetRadioPlayer(Screen):
+
+    skin = """
+        <screen name="GreekNetRadioPlayer" flags="wfNoBorder" position="center,0" size="e,160" title="Internet radio player" backgroundColor="#FF000000">
+            <widget source="session.CurrentService" render="Label" position="e/16,30" size="e/16,50" font="Body" valign="center" transparent="1">
+                <convert type="ServicePosition">Position</convert>
+            </widget>
+            <widget name="name" position="e/8,30" size="e/2,50" font="Body" valign="center" transparent="1"/>
+            <widget name="info" position="e/16,80" size="e/2,50" font="Body" valign="center" transparent="1"/>
+        </screen>"""
+
+    def __init__(self, session, name, url):
+        Screen.__init__(self, session)
+        self["name"] = Label(name)
+        self["info"] = Label("")
+
+        self["actions"] = ActionMap(["OkCancelActions"],
+        {
+            "ok": self.close,
+            "cancel": self.close,
+        }, -2)
+
+        self.__event_tracker = ServiceEventTracker(screen=self, eventmap={
+            iPlayableService.evUpdatedInfo: self.__evUpdatedInfo
+        })
+
+        self.onClose.append(self.__onClose)
+        self.oldService = self.session.nav.getCurrentlyPlayingServiceReference()
+        self.session.nav.stopService()
+        self.session.nav.playService(eServiceReference(4097, 0, url))
+
+    def __onClose(self):
+        self.session.nav.stopService()
+        self.session.nav.playService(self.oldService)
+
+    def __evUpdatedInfo(self):
+        currPlay = self.session.nav.getCurrentService()
+        if currPlay is not None:
+            self["info"].setText(currPlay.info().getInfoString(iServiceInformation.sTagTitle))
+
+
 def main(session, **kwargs):
-    try:
-        session.open(GreekNetRadio)
-    except:
-        print "[Greek net radio] Plugin execution failed"
-
-
-def autostart(reason, **kwargs):
-    if reason == 0:
-        print "[Greek net radio] no autostart"
+    session.open(GreekNetRadio)
 
 
 def Plugins(**kwargs):
