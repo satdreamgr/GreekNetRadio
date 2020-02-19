@@ -2,6 +2,449 @@
 <!--List of radio stations -->
 <xml>
     <webstations>
-         
+
+        #num
+
+        <station name="106.5 RadioIn">
+            <url>http://streaming.radioin.link:8383</url>
+        </station>
+        <station name="111 Radio">
+            <url>http://cast.magicstreams.gr:9060/</url>
+        </station>
+        <station name="1431 AM">
+            <url>http://155.207.18.114:8001/1431high</url>
+        </station>
+        <station name="1ο ΕΚ Βόλου Web Radio">
+            <url>http://194.63.231.189:8000/1sek</url>
+        </station>
+        <station name="269 radio">
+            <url>http://176.9.123.140:8006/</url>
+        </station>
+        <station name="4Life Radio International">
+            <url>http://int.fourlife.gr:8133/</url>
+        </station>
+        <station name="4Life Radio Greek">
+            <url>http://live.fourlife.gr:8132/</url>
+        </station>
+        <station name="4Mysoul Radio">
+            <url>http://comet.shoutca.st:8539/</url>
+        </station>
+        <station name="902.gr Radio">
+            <url>http://icecast.902.gr:8000/902</url>
+        </station>
+
+        # A
+
+        <station name="A100NetRadio 70s 80s 90s">
+            <url>http://bestgreek.info:8104/</url>
+        </station>
+        <station name="Abbey Road Radio">
+            <url>https://s2.radio.co/s4f56faf57/listen</url>
+        </station>
+        <station name="Alma Radio">
+            <url>http://144.76.92.208:8222</url>
+        </station>
+        <station name="Active radio">
+            <url>http://46.165.220.22:8050/radioactive</url>
+        </station>
+        <station name="Arion Radio">
+            <url>http://arion.onestreaming.com:80/arion</url>
+        </station>
+        <station name="Arion Λαϊκός">
+            <url>http://arion.onestreaming.com:80/arionlaikos</url>
+        </station>
+        <station name="Arion Στιγμές">
+            <url>http://arion.onestreaming.com:80/arionstigmes</url>
+        </station>
+        <station name="Athens Jazz Radio">
+            <url>http://music.wixstatic.com:80/mp3/6aa018_e43fa27d27c7437fb9306ff8dbb193c9.mp3</url>
+        </station>
+        <station name="Athens JoCkey Radio">
+            <url>http://37.187.93.104:8840/jockeyradiogr</url>
+        </station>
+        <station name="Athens Jukebox Radio">
+            <url>http://5.189.177.218:8015/</url>
+        </station>
+        <station name="Athens Metro Mall Radio">
+            <url>http://mmr.yourstreaming.gr:9300/</url>
+        </station>
+        <station name="Athens Party">
+            <url>http://ice.onestreaming.com:80/athensparty</url>
+        </station>
+        <station name="Athens Radio Trance">
+            <url>http://cast.streams.ovh:8008/</url>
+        </station>
+        <station name="Athens UP Radio">
+            <url>http://ample-04.radiojar.com:80/4y7ne6d53f5tv?</url>
+        </station>
+        <station name="Athens Κάρμα">
+            <url>http://78.129.224.13:36989/1</url>
+        </station>
+        <station name="Athina radio">
+            <url>http://iservsp.mediacdn.com:80/athinaradio</url>
+        </station>
+        <station name="Aqua Radio The 80s">
+            <url>http://s2.e-resellers.gr:8022</url>
+        </station>
+
+
+        #B
+
+        <station name="Black Velvet Radio">
+            <url>http://144.76.92.208:7134/</url>
+        </station>
+        <station name="Blue radio GR">
+            <url>http://sip.blueradio.gr:8441</url>
+        </station>
+        <station name="Butterflywebradio">
+            <url>http://centova.innviweb.com:9120/</url>
+        </station>
+
+        #C
+
+        <station name="Cannibal radio">
+            <url>http://213.239.206.179:8238/</url>
+        </station>
+        <station name="Cavoparadiso mykonos">
+            <url>http://s5.onweb.gr:8488/</url>
+        </station>
+        <station name="City DJ Music">
+            <url>http://213.239.206.179:7562/stream</url>
+        </station>
+        <station name="City Greek Music">
+            <url>http://213.239.206.179:7580/stream</url>
+        </station>
+        <station name="Cool FM">
+            <url>http://sc2.greekstream.net:4010/</url>
+        </station>
+        <station name="Cretaplanet">
+            <url>http://s3.onweb.gr:8522/</url>
+        </station>
+
+        #D
+
+        <station name="Disco 80s Radio">
+            <url>http://streaming.radionomy.com:80/80</url>
+        </station>
+        <station name="Disco FM">
+            <url>http://eco.onestreaming.com:8015/stream</url>
+        </station>
+        <station name="Discomania 1">
+            <url>http://radio2.discomaniaradio.com:7000/live</url>
+        </station>
+        <station name="Discomania 2">
+            <url>http://radio1.discomaniaradio.com:7030/</url>
+        </station>
+
+        #E
+
+        <station name="Epigee">
+            <url>http://s3.onweb.gr:8540/</url>
+        </station>
+        <station name="Ero radio.de 1">
+            <url>http://5.175.8.84:8000</url>
+        </station>
+        <station name="Ero radio.de 2">
+            <url>http://5.175.8.84:8050</url>
+        </station>
+        <station name="Ero radio.de 3">
+            <url>http://5.175.8.84:8100</url>
+        </station>
+        <station name="Evolution radio">
+            <url>http://i3.streams.ovh:12000/live</url>
+        </station>
+
+        #F
+
+        <station name="Freedomweb">
+            <url>http://stream.radiojar.com:80/freedomwebradio</url>
+        </station>
+
+        #G
+
+        <station name="Greek Djs Radio Premium">
+            <url>http://live.greekdjsradio.eu:8318/stream</url>
+        </station>
+        <station name="Greek Elass Radio.gr">
+            <url>http://solid2.streamupsolutions.com:24902/stream?1527583117850</url>
+        </station>
+        <station name="Greek New Age Radio">
+            <url>http://78.141.212.141:8000</url>
+        </station>
+        <station name="Greek Otaku Radio">
+            <url>http://usa2.fastcast4u.com:3684/1/</url>
+        </station>
+        <station name="Greek Turtle Radio">
+            <url>http://listen.radionomy.com:80/greekturtleradio</url>
+        </station>
+
+        #H
+
+        #I
+
+        #J
+
+        <station name="Jazz radio gr">
+            <url>http://ample-02.radiojar.com:80/kv0fc2dmb</url>
+        </station>
+
+        #K
+
+        #L
+
+        <station name="LXR radio">
+            <url>http://stream.streamaudio.de:8000/lxr-radio?1506694655544</url>
+        </station>
+        <station name="Loungistas lounge">
+            <url>http://s1.stream-experts.net:7000/lounge</url>
+        </station>
+        <station name="Loungistas chill">
+            <url>http://s1.stream-experts.net:7048/chill</url>
+        </station>
+        <station name="Loungistas nature">
+            <url>http://s1.stream-experts.net:7032/nature</url>
+        </station>
+        <station name="Loungistas jazz">
+            <url>http://s1.stream-experts.net:7004/jazz</url>
+        </station>
+
+        #M
+
+        <station name="Melodies">
+            <url>http://stream1.melodieswebradio.com:9504/live</url>
+        </station>
+        <station name="Memories Radio">
+            <url>http://88.99.31.139:8108/;stream/1</url>
+        </station>
+        <station name="Mood radio">
+            <url>http://82.145.43.92:8018/</url>
+        </station>
+        <station name="Music art club">
+            <url>http://37.59.32.115:8090/</url>
+        </station>
+        <station name="Musica radio">
+            <url>http://149.202.79.171:80/listen/w6c6bssk95vtv</url>
+        </station>
+        <station name="My 80s">
+            <url>http://pstnet3.shoutcastnet.com:36800/</url>
+        </station>
+        <station name="My disco Radio">
+            <url>http://s2.voscast.com:7408/;stream1515683958159/1</url>
+        </station>
+
+        #N
+
+        <station name="Netcruise Radio">
+            <url>http://shoutcast.24radio.gr:8010</url>
+        </station>
+
+        #O
+
+        <station name="Old Radio">
+            <url>http://212.83.149.66:8268/mp3</url>
+        </station>
+
+        #P
+
+        <station name="Play FM">
+            <url>http://144.76.92.208:9000/stream</url>
+        </station>
+        <station name="Play Gold">
+            <url>http://ample-02.radiojar.com:80/431m8b6qcm5tv</url>
+        </station>
+        <station name="Play Lounge">
+            <url>http://ample-09.radiojar.com/n6frf0ct274tv.mp3</url>
+        </station>
+        <station name="Play Mix">
+            <url>http://cloud.playradio.one:8444/mix128.mp3</url>
+        </station>
+        <station name="Play Radio">
+            <url>http://stream.radiojar.com/0zs50dbr274tv</url>
+        </station>
+        <station name="Playradio gr">
+            <url>http://stream1.playradio.gr:8222</url>
+        </station>
+        <station name="Pylos live radio">
+            <url>http://s4.myradiostream.com:14374</url>
+        </station>
+
+        #Q
+
+        #R
+
+        <station name="Radio1 BALLADS">
+            <url>http://www.111.gr:8110</url>
+        </station>
+        <station name="Radio1 CLASSIC">
+            <url>http://www.111.gr:8066</url>
+        </station>
+        <station name="Radio1 DANCE">
+            <url>http://www.111.gr:8048</url>
+        </station>
+        <station name="Radio1 Disco">
+            <url>http://www.111.gr:8090</url>
+        </station>
+        <station name="Radio1 GOLDEN 60s">
+            <url>http://www.111.gr:8022</url>
+        </station>
+        <station name="Radio1 GOLDEN 80s">
+            <url>http://www.111.gr:8054</url>
+        </station>
+        <station name="Radio1 Greek Top 40">
+            <url>http://www.111.gr:8014</url>
+        </station>
+        <station name="Radio1 JAZZ">
+            <url>http://www.111.gr:8028</url>
+        </station>
+        <station name="Radio1 LOUNGE">
+            <url>http://www.111.gr:8006</url>
+        </station>
+        <station name="Radio1 ROCK">
+            <url>http://www.111.gr:8060</url>
+        </station>
+        <station name="Radio1 Ελληνικός">
+            <url>http://www.111.gr:8084</url>
+        </station>
+        <station name="Radio1 Λαϊκά">
+            <url>http://www.111.gr:8078</url>
+        </station>
+        <station name="Radio 1d">
+            <url>http://www.radio1d.gr:8001/winamp</url>
+        </station>
+        <station name="Radio 848">
+            <url>http://s2.e-resellers.gr:8052/</url>
+        </station>
+
+        #S
+
+        #T
+
+        #U
+
+        #V
+
+        <station name="Vanilla Radio Fresh Flavors">
+            <url>http://ample-02.radiojar.com/exdncp89fnwtv.mp3</url>
+        </station>
+        <station name="Vanilla deep flavors radio">
+            <url>http://149.202.69.32/listen/egqwgc0q52mtv</url>
+        </station>
+        <station name="Vanilla smooth flavors radio">
+            <url>http://149.202.69.29/listen/w0b4xf0q52mtv</url>
+        </station>
+
+        #WXY
+
+        #Z
+
+        <station name="ZOO Dance">
+            <url>http://173.249.6.18:9082/</url>
+        </station>
+        <station name="ZOO Hits">
+            <url>http://173.249.6.18:9084/</url>
+        </station>
+        <station name="ZOO RnB Radio">
+            <url>http://173.249.6.18:9080/</url>
+        </station>
+
+        #Α
+
+        <station name="ΑΥΣΤΡΑΛΙΑ - ΣΙΔΝΕΫ -- Ράδιο Σύμπαν">
+            <url>http://s4.onweb.gr:8430/</url>
+        </station>
+        <station name="Αμαρτία FM">
+            <url>http://cast.innviweb.com:9030/</url>
+        </station>
+
+        #Β
+
+        #Γ
+
+        #Δ
+
+        #Ε
+
+        <station name="Ελληνικός Radio">
+            <url>http://eco.onestreaming.com:8150/stream</url>
+        </station>
+
+            #Ζ
+
+            #Η
+
+        <station name="Ηχώ των Σαρακατσαναίων">
+            <url>http://136.243.61.157:8158/</url>
+        </station>
+
+        #Θ
+
+        #Ι
+
+        #Κ
+
+        #Λ
+
+        #Μ
+
+        #Ν
+
+        <station name="Νεολαία Ράδιο">
+            <url>http://ample-05.radiojar.com:80/neolaiagr.mp3</url>
+        </station>
+
+        #Ξ
+
+        #Ο
+
+        #Π
+
+        <station name="Ποντιακά-Ράδιο Κεμεντζετζής">
+            <url>http://whmsonic.streams.ovh:9948/</url>
+        </station>
+        <station name="Ποντιακά-Ράδιο Εύξεινος Πόντος">
+            <url>http://cast.radiohost.ovh:9209/stream</url>
+        </station>
+        <station name="Ποντιακά-Ράδιο Στοκχόλμης">
+            <url>http://213.188.154.38:8000/.mp3</url>
+        </station>
+        <station name="Ποντιακά-Radio Pontos International">
+            <url>http://5.189.189.16:8004</url>
+        </station>
+        <station name="Ποντιακά-e-pontos radio">
+            <url>http://eco.onestreaming.com:8219/stream</url>
+        </station>
+        <station name="Ποντιακά-Ράδιο Ακρίτες 102.3">
+            <url>http://iphone.live24.gr/akritespontou</url>
+        </station>
+        <station name="Πεμπτουσια">
+            <url>http://pemptousia2.primcast.com:5824/</url>
+        </station>
+
+        #Ρ
+
+        <station name="Ράδιο Εντεχνος">
+            <url>http://eu7.fastcast4u.com:5174/stream</url>
+        </station>
+        <station name="Ράδιο Νοσταλγία">
+            <url>http://radionostalgiagr.dyndns.org:2314</url>
+        </station>
+        <station name="Ράδιο Πανικός">
+            <url>http://i.streams.ovh:9398/</url>
+        </station>
+
+        #Σ
+
+        #Τ
+
+        #Υ
+
+        #Φ
+
+        #Χ
+
+        #ψ
+
+        #Ω
+
     </webstations>
 </xml>

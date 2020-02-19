@@ -46,11 +46,9 @@ class GreekNetRadio(Screen):
             <widget name="menu" position="0,10" size="e,e-60" itemHeight="40" font="Body" textOffset="10,0" scrollbarMode="showOnDemand"/>
             <ePixmap pixmap="buttons/key_red.png" position="0,e-40" size="40,40" alphatest="blend"/>
             <ePixmap pixmap="buttons/key_green.png" position="e/4,e-40" size="40,40" alphatest="blend"/>
-            <ePixmap pixmap="buttons/key_yellow.png" position="e/2,e-40" size="40,40" alphatest="blend"/>
             <ePixmap pixmap="buttons/key_blue.png" position="3*e/4,e-40" size="40,40" alphatest="blend"/>
             <widget source="key_red" render="Label" position="40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
             <widget source="key_green" render="Label" position="e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
-            <widget source="key_yellow" render="Label" position="e/2+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
             <widget source="key_blue" render="Label" position="3*e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
         </screen>"""
 
@@ -60,7 +58,6 @@ class GreekNetRadio(Screen):
 
         self["key_red"] = StaticText(_("Close"))
         self["key_green"] = StaticText(_("Select"))
-        self["key_yellow"] = StaticText(_("Update stations"))
         self["key_blue"] = StaticText(_("About"))
 
         menu = []
@@ -76,7 +73,6 @@ class GreekNetRadio(Screen):
             "red": self.close,
             "ok": self.go,
             "green": self.go,
-            "yellow": self.update,
             "blue": self.about,
         }, -1)
 
@@ -91,14 +87,6 @@ class GreekNetRadio(Screen):
             self.session.open(GreekWebStations)
         elif choice == "international":
             self.session.open(InternationalStations)
-
-    def update(self):
-        def updateCb(answer):
-            if answer is True:
-                self.session.open(Console, _("Updating stations..."), ["{0}/flex.sh {0}".format(resolveFilename(SCOPE_PLUGINS, "Extensions/GreekNetRadio"))])
-
-        msg = _("Do you really want to update the stations list?")
-        self.session.openWithCallback(updateCb, MessageBox, msg, MessageBox.TYPE_YESNO)
 
     def about(self):
         msg = _("Internet radio plugin by SatDreamGR")
