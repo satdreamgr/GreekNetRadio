@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GreekNetRadio\n"
-"POT-Creation-Date: 2020-02-16 21:42+0200\n"
+"POT-Creation-Date: 2020-02-19 23:38+0200\n"
 "PO-Revision-Date: 2019-12-31 19:24+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -15,78 +15,66 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: plugin.py:59 plugin.py:125 plugin.py:299
+#: plugin.py:57 plugin.py:113 plugin.py:287
 msgid "Internet radio"
 msgstr ""
 
-#: plugin.py:61 plugin.py:128
+#: plugin.py:59 plugin.py:116
 msgid "Close"
 msgstr ""
 
-#: plugin.py:62
+#: plugin.py:60
 msgid "Select"
 msgstr ""
 
-#: plugin.py:63
-msgid "Update stations"
-msgstr ""
-
-#: plugin.py:64
+#: plugin.py:61
 msgid "About"
 msgstr ""
 
-#: plugin.py:67 plugin.py:190
+#: plugin.py:64 plugin.py:178
 msgid "Favourite stations"
 msgstr ""
 
-#: plugin.py:68 plugin.py:235
+#: plugin.py:65 plugin.py:223
 msgid "Greek FM stations"
 msgstr ""
 
-#: plugin.py:69 plugin.py:242
+#: plugin.py:66 plugin.py:230
 msgid "Greek web stations"
 msgstr ""
 
-#: plugin.py:70 plugin.py:249
+#: plugin.py:67 plugin.py:237
 msgid "International stations"
 msgstr ""
 
-#: plugin.py:98
-msgid "Updating stations..."
-msgstr ""
-
-#: plugin.py:100
-msgid "Do you really want to update the stations list?"
-msgstr ""
-
-#: plugin.py:104
+#: plugin.py:92
 msgid "Internet radio plugin by SatDreamGR"
 msgstr ""
 
-#: plugin.py:106
+#: plugin.py:94
 msgid "For information or questions please refer to the www.satdreamgr.com forum."
 msgstr ""
 
-#: plugin.py:157 plugin.py:203
+#: plugin.py:145 plugin.py:191
 msgid "Play"
 msgstr ""
 
-#: plugin.py:158
+#: plugin.py:146
 msgid "Add to favourites"
 msgstr ""
 
-#: plugin.py:180
+#: plugin.py:168
 msgid "Station successfully added to favourites"
 msgstr ""
 
-#: plugin.py:204
+#: plugin.py:192
 msgid "Delete"
 msgstr ""
 
-#: plugin.py:225
+#: plugin.py:213
 msgid "Station successfully deleted from favourites"
 msgstr ""
 
-#: plugin.py:301
+#: plugin.py:289
 msgid "Listen to your favourite radio stations"
 msgstr ""
