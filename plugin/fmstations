@@ -300,7 +300,7 @@
             <url>http://207.154.248.204:8009/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- FLY 104">
-            <url>http://37.59.32.115:6168/stream</url>
+            <url>https://eu9.fastcast4u.com/proxy/nicper00?mp=/1'</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- FM 100">
             <url>http://178.62.176.153:8000/stream</url>
