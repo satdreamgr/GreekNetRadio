@@ -1040,7 +1040,7 @@
             <url>http://s2.e-resellers.gr:9966/</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- LOUD 98.2">
-            <url>http://144.76.92.208:9820</url>
+            <url>http://netradio.live24.gr:80/loud982agrinio</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- MAD 107">
             <url>http://i4.streams.ovh:7038</url>
@@ -1054,9 +1054,6 @@
         <station name="ΑΓΡΙΝΙΟ -- Άρια FM 107.4">
             <url>http://cast4.magicstreams.gr:10131/;stream.mp3</url>
         </station>
-        <station name="ΑΓΡΙΝΙΟ -- ΑΓΡΙΝΙΟ 937">
-            <url>http://netradio.live24.gr:80/agrinio937</url>
-        </station>
         <station name="ΑΓΡΙΝΙΟ -- ΑΕΡΑΣ FM 99.5">
             <url>http://ice.streamcloud.mediacdn.com:80/aerasfm995</url>
         </station>
@@ -1064,7 +1061,7 @@
             <url>http://s2.e-resellers.gr:8076/</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- ΔΥΤΙΚΑ FM 92.8">
-            <url>http://213.239.206.179:9280/</url>
+            <url>http://netradio.live24.gr:80/dytikafm928agrinio</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- Ι.M ΑΙΤΩΛΙΑΣ ΑΚΑΡΝΑΝΙΑΣ">
             <url>http://136.243.61.157:8048</url>
@@ -1081,7 +1078,6 @@
         <station name="ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ -- Ραδιοφωνικός Σταθμός Μεσολογγίου 92">
             <url>http://eco.onestreaming.com:8021/</url>
         </station>
-
     ######################     ΦΩΚΙΔΑ     ##########################
 
         <station name="ΦΩΚΙΔΑ -- Ράδιο Άμφισσα 104.4">
@@ -1268,7 +1264,7 @@
             <url>http://live.webhosting4u.gr:8023/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- Athens 106.5">
-            <url>http://46.227.57.27:9300</url>
+            <url>http://148.251.162.206:9400/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- Athens DeeJay 95.2">
             <url>http://netradio.live24.gr:80/athensdeejay</url>
@@ -1286,7 +1282,7 @@
             <url>http://alpha-stream.eu:9326/;.mp3</url>
         </station>
         <station name="ΑΘΗΝΑ -- Bluespace Athens 107.2">
-            <url>http://stream1.468.gr:9998/</url>
+            <url>http://91.121.222.81:8104/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- Derti 98.6">
             <url>http://derti.live24.gr:80/derty1000</url>
@@ -1381,7 +1377,7 @@
         <station name="ΑΘΗΝΑ -- REAL FM 97.8">
             <url>http://realfm.live24.gr:80/realfm</url>
         </station>
-        <station name="ΑΘΗΝΑ -- RED96.3">
+        <station name="ΑΘΗΝΑ -- RED 96.3">
             <url>http://stream.radiojar.com:80/redfm963</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red 80s">
@@ -1391,7 +1387,7 @@
             <url>https://ample-05.radiojar.com/red90s</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red 00s">
-            <url>https://ample-17.radiojar.com/red00s</url>
+            <url>https://n09.radiojar.com/red00s</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red metal">
             <url>https://ample-08.radiojar.com/redmetal</url>
@@ -1402,11 +1398,8 @@
         <station name="ΑΘΗΝΑ -- Red new">
             <url>https://ample-09.radiojar.com/rednewmusic</url>
         </station>
-        <station name="ΑΘΗΝΑ -- Red freedom">
-            <url>https://ample-17.radiojar.com/freedomwebradio</url>
-        </station>
         <station name="ΑΘΗΝΑ -- Rythmos 949">
-            <url>https://ample-03.radiojar.com/g4tyehk5yvduv.mp3</url>
+            <url>https://n08.radiojar.com/g4tyehk5yvduv.mp3</url>
         </station>
         <station name="ΑΘΗΝΑ -- Rythmos xoreftika">
             <url>https://ample-02.radiojar.com/afg1g3aayvduv.mp3</url>
@@ -1460,10 +1453,10 @@
             <url>http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/chunks.m3u8</url>
         </station>
         <station name="ΑΘΗΝΑ -- Λυρα FM 91.4">
-            <url>http://78.47.56.126:9244/live</url>
+            <url>http://172.93.237.106:8271/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΜΕΛΩΔΙΑ 99.2">
-            <url>http://netradio.live24.gr:80/melodia</url>
+            <url>https://ample-08.radiojar.com/8du64725e3quv</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΜΕΝΤΑ FM 88">
             <url>http://netradio.live24.gr:80/menta-trans</url>
