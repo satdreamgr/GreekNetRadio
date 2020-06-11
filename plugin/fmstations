@@ -1040,7 +1040,7 @@
             <url>http://s2.e-resellers.gr:9966/</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- LOUD 98.2">
-            <url>http://144.76.92.208:9820</url>
+            <url>http://netradio.live24.gr:80/loud982agrinio</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- MAD 107">
             <url>http://i4.streams.ovh:7038</url>
@@ -1081,7 +1081,6 @@
         <station name="ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ -- Ραδιοφωνικός Σταθμός Μεσολογγίου 92">
             <url>http://eco.onestreaming.com:8021/</url>
         </station>
-
     ######################     ΦΩΚΙΔΑ     ##########################
 
         <station name="ΦΩΚΙΔΑ -- Ράδιο Άμφισσα 104.4">
