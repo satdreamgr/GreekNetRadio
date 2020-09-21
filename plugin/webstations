@@ -421,6 +421,9 @@
         <station name="Ελληνικός Radio">
             <url>http://eco.onestreaming.com:8150/stream</url>
         </station>
+	<station name="Ενωση Σαρακατσάνων">
+            <url>http://giss.tv:8000/radioenosi.mp3</url>
+        </station>    
 
             #Ζ
 
