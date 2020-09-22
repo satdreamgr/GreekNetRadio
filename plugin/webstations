@@ -419,7 +419,7 @@
         #Ε
 
         <station name="Ελληνικός Radio">
-            <url>http://eco.onestreaming.com:8150/stream</url>
+            <url>https://stream.radiojar.com/945xga26na0uv.mp3?1600779343</url>
         </station>
 	<station name="Ενωση Σαρακατσάνων">
             <url>http://giss.tv:8000/radioenosi.mp3</url>
