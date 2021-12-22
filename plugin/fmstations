@@ -14,17 +14,11 @@
         <station name="ΑΓΡΙΝΙΟ -- LOUD 98.2">
             <url>http://netradio.live24.gr:80/loud982agrinio</url>
         </station>
-        <station name="ΑΓΡΙΝΙΟ -- MAD 107">
-            <url>http://i4.streams.ovh:7038</url>
-        </station>
         <station name="ΑΓΡΙΝΙΟ -- MAGIC FM 102.9">
             <url>http://live.magicfmagrinio.net:9500/</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- MUSIC LIFE 95.1">
             <url>http://213.239.206.179:9501/;listen.pls</url>
-        </station>
-        <station name="ΑΓΡΙΝΙΟ -- Άρια FM 107.4">
-            <url>http://cast4.magicstreams.gr:10131/;stream.mp3</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- ΑΕΡΑΣ FM 99.5">
             <url>http://ice.streamcloud.mediacdn.com:80/aerasfm995</url>
@@ -36,7 +30,7 @@
             <url>http://netradio.live24.gr:80/dytikafm928agrinio</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- Ι.M ΑΙΤΩΛΙΑΣ ΑΚΑΡΝΑΝΙΑΣ">
-            <url>http://136.243.61.157:8048</url>
+            <url>http://s3.onweb.gr:8038</url>
         </station>
         <station name="ΑΓΡΙΝΙΟ -- ΛΑΙΚΟΣ 96.2">
             <url>http://sonic.streams.ovh:9870/</url>
@@ -50,6 +44,9 @@
         <station name="ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ -- Ραδιοφωνικός Σταθμός Μεσολογγίου 92">
             <url>http://eco.onestreaming.com:8021/</url>
         </station>
+		<station name="ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑ -- Ράδιο Αμφιλοχία 104.5">
+            <url>http://s3.onweb.gr:8474/</url>
+        </station>
 		
 		######################     ΑΘΗΝΑ     ##########################
 
@@ -59,23 +56,17 @@
         <station name="ΑΘΗΝΑ -- ALPHA 989">
             <url>http://ample.radiojar.com/xcdg6yggzfeuv</url>
         </station>
-        <station name="ΑΘΗΝΑ -- ACTION FM 104.6">
-            <url>http://netradio.live24.gr:80/actionfm</url>
-        </station>
         <station name="ΑΘΗΝΑ -- ART FM 90.6">
-            <url>http://live.webhosting4u.gr:8023/stream</url>
+            <url>https://stream.webmonster.gr/artfm906</url>
         </station>
         <station name="ΑΘΗΝΑ -- Athens 106.5">
-            <url>http://148.251.162.206:9400/stream</url>
+            <url>http://89.163.217.252:9400/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- Athens DeeJay 95.2">
             <url>http://netradio.live24.gr:80/athensdeejay</url>
         </station>
         <station name="ΑΘΗΝΑ -- AthensVOICE">
             <url>http://nitro.live24.gr/nitro4555</url>
-        </station>
-        <station name="ΑΘΗΝΑ -- Atlantis FM 105.2">
-            <url>http://136.243.61.157:8308/mp3</url>
         </station>
         <station name="ΑΘΗΝΑ -- BEST RADIO 92.6">
             <url>http://best.live24.gr:80/best1222</url>
@@ -84,7 +75,7 @@
             <url>http://alpha-stream.eu:9326/;.mp3</url>
         </station>
         <station name="ΑΘΗΝΑ -- Bluespace Athens 107.2">
-            <url>http://91.121.222.81:8104/stream</url>
+            <url>https://sp3.streams.ovh/8028/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- Derti 98.6">
             <url>http://derti.live24.gr:80/derty1000</url>
@@ -115,6 +106,9 @@
         </station>
         <station name="ΑΘΗΝΑ -- En lefko 87.7">
             <url>http://stream.radiojar.com:80/enlefko877</url>
+		</station>
+		<station name="ΑΘΗΝΑ -- Ellada fm 94.3">
+            <url>http://stream.ellada943.gr:10198</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΕΡΤ open 1ο πρόγραμμα">
             <url>http://radio.ertopen.com/erasport</url>
@@ -128,9 +122,6 @@
         <station name="ΑΘΗΝΑ -- Galaxy 92">
             <url>http://galaxy.live24.gr:80/galaxy9292</url>
         </station>
-        <station name="ΑΘΗΝΑ -- Groove radio">
-            <url>http://213.239.206.179:8090/stream</url>
-        </station>
         <station name="ΑΘΗΝΑ -- HIT 88.9">
             <url>http://stream.radiojar.com:80/hit889</url>
         </station>
@@ -143,8 +134,8 @@
         <station name="ΑΘΗΝΑ -- Kiss FM 92.9">
             <url>http://kissfm.live24.gr:80/kiss2111</url>
         </station>
-        <station name="ΑΘΗΝΑ -- LEGEND 88.6">
-            <url>http://netradio.live24.gr/886athens</url>
+		<station name="ΑΘΗΝΑ -- Kontra radio">
+            <url>http://netradio.live24.gr/kontratv</url>
         </station>
         <station name="ΑΘΗΝΑ -- LIQUID FM">
             <url>http://ice.streamcloud.mediacdn.com:80/freeradio-1000</url>
@@ -153,16 +144,19 @@
             <url>http://loveradio.live24.gr:80/loveradio-1000</url>
         </station>
         <station name="ΑΘΗΝΑ -- MAD RADIO 106.2">
-            <url>http://mediaserver.mad.tv:8000/stream</url>
+            <url>http://mediaserver.mad.tv:80/stream</url>
         </station>
-        <station name="ΑΘΗΝΑ -- NITRO 102.5">
-            <url>http://nitro.live24.gr:80/nitro4555</url>
+		<station name="ΑΘΗΝΑ -- Music 89.2">
+            <url>https://stream.radiojar.com/k0hua7u1yk5tv</url>
+        </station>
+		<station name="ΑΘΗΝΑ -- MY RADIO 104.6">
+            <url>http://streaming.myradio1046.fm/myradio1046</url>
         </station>
         <station name="ΑΘΗΝΑ -- Nostos 100.6">
-            <url>http://144.76.92.208:7878</url>
+            <url>https://neos.win:37878/stream</url>
         </station>
-        <station name="ΑΘΗΝΑ -- Party fm 104">
-            <url>https://radio.streamings.gr:9006/stream</url>
+		<station name="ΑΘΗΝΑ -- OVER FM">
+            <url>http://netradio.live24.gr/overfm-internet</url>
         </station>
         <station name="ΑΘΗΝΑ -- Peper 96.6">
             <url>http://stream.radiojar.com/pepper.aac</url>
@@ -173,50 +167,59 @@
         <station name="ΑΘΗΝΑ -- Radio Gold">
             <url>http://radiogold.live24.gr:80/radiogold</url>
         </station>
+		<station name="ΑΘΗΝΑ -- Radio Gold2">
+            <url>http://radiogold.live24.gr/radiogoldies</url>
+        </station>
         <station name="ΑΘΗΝΑ -- Radio Hot lips">
             <url>http://netradio.live24.gr:80/radiohotlips</url>
         </station>
         <station name="ΑΘΗΝΑ -- REAL FM 97.8">
             <url>http://realfm.live24.gr:80/realfm</url>
         </station>
-        <station name="ΑΘΗΝΑ -- RED 96.3">
+		<station name="ΑΘΗΝΑ -- Rebel 105.2">
+            <url>http://netradio.live24.gr/rebel1052</url>
+        </station>
+        <station name="ΑΘΗΝΑ -- Red 96.3">
             <url>http://stream.radiojar.com:80/redfm963</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red 80s">
-            <url>https://ample-05.radiojar.com/red80s</url>
+            <url>https://n04.radiojar.com/red80s</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red 90s">
-            <url>https://ample-05.radiojar.com/red90s</url>
+            <url>https://n0c.radiojar.com/red90s</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red 00s">
             <url>https://n09.radiojar.com/red00s</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red metal">
-            <url>https://ample-08.radiojar.com/redmetal</url>
+            <url>https://n0b.radiojar.com/redmetal</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red classic">
-            <url>https://ample-05.radiojar.com/redclassics</url>
+            <url>https://n09.radiojar.com/redclassics</url>
         </station>
         <station name="ΑΘΗΝΑ -- Red new">
-            <url>https://ample-09.radiojar.com/rednewmusic</url>
+            <url>https://n0f.radiojar.com/rednewmusic</url>
         </station>
         <station name="ΑΘΗΝΑ -- Rythmos 949">
             <url>https://n08.radiojar.com/g4tyehk5yvduv.mp3</url>
         </station>
-        <station name="ΑΘΗΝΑ -- Rythmos xoreftika">
-            <url>https://ample-02.radiojar.com/afg1g3aayvduv.mp3</url>
+        <station name="ΑΘΗΝΑ -- Rythmos dirrty">
+            <url>https://n13a-eu.rcs.revma.com/v0c13e5r4a0uv</url>
         </station>
         <station name="ΑΘΗΝΑ -- Rythmos laika">
             <url>https://ample-10.radiojar.com/k6tam6aayvduv.mp3</url>
         </station>
         <station name="ΑΘΗΝΑ -- Rythmos ballads">
-            <url>https://ample-05.radiojar.com/c8mac5aayvduv.mp3</url>
+            <url>https://n17a-eu.rcs.revma.com/dm9td34r4a0uv</url>
+        </station>
+		<station name="ΑΘΗΝΑ -- Rythmos nonstop music">
+            <url>https://n17a-eu.rcs.revma.com/pg5mvxz71k8uv</url>
+        </station>
+		<station name="ΑΘΗΝΑ -- Rythmos στο κασετόφωνο">
+            <url>https://n04a-eu.rcs.revma.com/ff4abx8q4a0uv</url>
         </station>
         <station name="ΑΘΗΝΑ -- Sfera 102.2">
             <url>http://sfera.live24.gr:80/sfera4132</url>
-        </station>
-        <station name="ΑΘΗΝΑ -- Smooth 99.8">
-            <url>http://iphone.live24.gr/radio998</url>
         </station>
         <station name="ΑΘΗΝΑ -- Sport24 103.3">
             <url>http://sport24radio.live24.gr:80/sport24radio</url>
@@ -226,6 +229,9 @@
         </station>
         <station name="ΑΘΗΝΑ -- Styl FM 104.9">
             <url>http://s3.onweb.gr:8530/</url>
+        </station>
+		<station name="ΑΘΗΝΑ -- Zeppelin 106.7">
+            <url>https://radiostreaming.ert.gr/ert-zeppelin</url>
         </station>
         <station name="ΑΘΗΝΑ -- Αθήνα 98.4">
             <url>http://athina984.live24.gr:80/athina984</url>
@@ -237,7 +243,7 @@
             <url>http://85.10.206.222:8002/;listen.pls</url>
         </station>
         <station name="ΑΘΗΝΑ -- Εκκλησία Πειραική">
-            <url>http://136.243.61.157:8310</url>
+            <url>https://impradio.bytemasters.gr/8002/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΕΛΛΗΝΙΚΟΣ 93.2">
             <url>http://orange.live24.gr:80/orange9320</url>
@@ -245,8 +251,8 @@
         <station name="ΑΘΗΝΑ -- ΕΡΑ ΣΠΟΡ 101.8">
             <url>http://radiostreaming.ert.gr:80/ert-erasport</url>
         </station>
-        <station name="ΑΘΗΝΑ -- ΘΕΜΑ 104.6">
-            <url>http://stream.radiojar.com:80/cdk030dsvv5tv</url>
+        <station name="ΑΘΗΝΑ -- Κανάλι1 -Δ.Ρ Πειραιά 90.4">
+            <url>http://netradio.live24.gr:80/kanali1peiraia</url>
         </station>
         <station name="ΑΘΗΝΑ -- Κρήτη FM 87.5">
             <url>http://s3.onweb.gr:8878/</url>
@@ -255,13 +261,16 @@
             <url>http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/chunks.m3u8</url>
         </station>
         <station name="ΑΘΗΝΑ -- Λυρα FM 91.4">
-            <url>http://172.93.237.106:8271/stream</url>
+            <url>https://i4.streams.ovh/ic/lyrafm/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΜΕΛΩΔΙΑ 99.2">
-            <url>https://ample-08.radiojar.com/8du64725e3quv</url>
+            <url>https://stream.radiojar.com/8du64725e3quv</url>
+        </station>
+		<station name="ΑΘΗΝΑ -- ΜΕΛΩΔΙΚΟΣ 107.7">
+            <url>https://rdst.win:59393/stream</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΜΕΝΤΑ FM 88">
-            <url>http://netradio.live24.gr:80/menta-trans</url>
+            <url>https://n10.radiojar.com/menta</url>
         </station>
         <station name="ΑΘΗΝΑ -- ΜΙΝΟΡΕ 104.3">
             <url>http://minorefm.live24.gr:80/minorefm</url>
@@ -273,7 +282,7 @@
             <url>http://iservsp.mediacdn.com:80/athinaradio</url>
         </station>
         <station name="ΑΘΗΝΑ -- Πειρατικος 99.5">
-            <url>http://148.251.162.206:9800/</url>
+            <url>http://89.163.217.252:9800/</url>
         </station>
         <station name="ΑΘΗΝΑ -- Σκάι 100.3">
             <url>http://netradio.live24.gr/skai1003</url>
@@ -287,29 +296,26 @@
         <station name="ΑΡΓΟΛΙΔΑ -- COOL fm 90.7">
             <url>http://solid1.streamupsolutions.com:11004/</url>
         </station>
+		<station name="ΑΡΓΟΛΙΔΑ -- DRI fm 92.2">
+            <url>https://24streams.me/8012/stream</url>
+        </station>
         <station name="ΑΡΓΟΛΙΔΑ -- MUST FM 97">
             <url>http://shoutcast.24radio.gr:8012/</url>
         </station>
         <station name="ΑΡΓΟΛΙΔΑ -- PALMOS 102.7">
             <url>http://s6.onweb.gr:8010</url>
         </station>
-        <station name="ΑΡΓΟΛΙΔΑ -- PARADISE RADIO 101.6">
-            <url>http://213.239.206.179:8850/;listen.pls</url>
-        </station>
-        <station name="ΑΡΓΟΛΙΔΑ -- SFERA 94.1 FM">
+        <station name="ΑΡΓΟΛΙΔΑ -- SFERA 94.4 FM">
             <url>http://netradio.live24.gr:80/sfera941nauplio</url>
         </station>
         <station name="ΑΡΓΟΛΙΔΑ -- STAR FM 92.9">
             <url>http://netradio.live24.gr/star929-nauplio</url>
         </station>
-        <station name="ΑΡΓΟΛΙΔΑ -- STYLE FM 89.6">
-            <url>http://213.239.206.179:8960/stream</url>
-        </station>
         <station name="ΑΡΓΟΛΙΔΑ -- ΔΗΜΟΤΙΚΗ ΑΝΘΟΛΟΓΙΑ 88.8">
             <url>http://shoutcast.24radio.gr:8070/</url>
         </station>
         <station name="ΑΡΓΟΛΙΔΑ -- ΗΧΩ FM 98.1">
-            <url>https://securestreams2.autopo.st:1074/stream</url>
+            <url>https://liveradio.top:38016/live</url>
         </station>
         <station name="ΑΡΓΟΛΙΔΑ -- Ράδιο Αργοσαρωνικός 106.4">
             <url>http://s3.onweb.gr:8536/</url>
@@ -319,6 +325,9 @@
         </station>
         <station name="ΑΡΓΟΛΙΔΑ -- Ράδιο Ι.Μ Αργολιδος 105.2">
             <url>http://eco.onestreaming.com:8556/</url>
+        </station>
+		<station name="ΑΡΓΟΛΙΔΑ -- Σκάι Αργολίδας 102.3">
+            <url>http://skycomnet.gr/radio/8010/argolida</url>
         </station>
 		
 		######################     ΑΡΚΑΔΙΑ     ##########################
@@ -342,10 +351,10 @@
             <url>http://i3.streams.ovh:12022/stream</url>
         </station>
         <station name="ΑΡΤΑ -- Orange 96">
-            <url>http://live.orangeradio.gr:8000/</url>
+            <url>https://live.orangeradio.gr</url>
         </station>
         <station name="ΑΡΤΑ -- POWER FM 92.3">
-            <url>http://stgr.info:9230/</url>
+            <url>https://neos.win:59230/stream</url>
         </station>
         <station name="ΑΡΤΑ -- SPORT24 102.1">
             <url>http://i3.streams.ovh:12019/stream</url>
@@ -360,7 +369,7 @@
             <url>http://netradio.live24.gr:80/pegasosarta-128mp3</url>
         </station>
         <station name="ΑΡΤΑ -- Ράδιο Ένα 87.6">
-            <url>http://78.129.240.14:9265/</url>
+            <url>http://78.129.224.21:19168/</url>
         </station>	
 
     ######################     ΑΤΤΙΚΗ     ##########################
@@ -368,23 +377,18 @@
         <station name="ΑΤΤΙΚΗ -- Παλμός 105.4 - Πόρος">
             <url>http://s6.onweb.gr:8010/</url>
         </station>
-        <station name="ΑΤΤΙΚΗ -- Paradise 101.6 FM - Πόρος">
-            <url>http://213.239.206.179:8850/;stream.mp3</url>
-        </station>
-        <station name="ΑΤΤΙΚΗ -- Radioin - Μάνδρα">
-            <url>http://go.radioin.audio:7002/;listen.pls</url>
-        </station>	
+       
 		
 	 ######################     ΑΧΑΪΑ     ##########################
 
         <station name="ΑΧΑΪΑ -- Alpha Πάτρας 94.4">
-            <url>https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_33004_stream</url>
+            <url>https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_39277_stream_572339665</url>
         </station>
 		<station name="ΑΧΑΪΑ -- DERTI 105.7">
             <url>http://5.9.17.142:8016</url>
         </station>
         <station name="ΑΧΑΪΑ -- GALAXY 106.1">
-            <url>http://5.9.17.142:8032/</url>
+            <url>https://solid33.streamupsolutions.com/proxy/apmurcpv/stream</url>
         </station>
         <station name="ΑΧΑΪΑ -- Kiss FM 92.2">
             <url>http://stream.kiisextra.gr:48500/kiis.mp3</url>
@@ -396,31 +400,25 @@
             <url>http://stream.melody888.gr:48500/melody.mp3</url>
         </station>
 		<station name="ΑΧΑΪΑ -- Oxygen 95.3">
-            <url>https://freeuk8.listen2myradio.com/live.mp3?typeportmount=s1_6388_stream</url>
+            <url>https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_35809_stream_391248860</url>
         </station>
-        <station name="ΑΧΑΪΑ -- Radio 91.5">
-            <url>http://freeus4.listen2myradio.com/live.mp3?typeportmount=s1_7628_stream</url>
-        </station>
-        <station name="ΑΧΑΪΑ -- Red Radio 102.7">
-            <url>http://stream.radiojar.com/s87smqqfewzuv</url>
+		<station name="ΑΧΑΪΑ -- Picasso 102.7">
+            <url>https://stream.radiojar.com/s87smqqfewzuv</url>
         </station>
         <station name="ΑΧΑΪΑ -- SFERA 96.6">
             <url>http://stream.radiojar.com/mg2vq26eewzuv</url>
         </station>
         <station name="ΑΧΑΪΑ -- TOP FM 93">
-            <url>https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_30581_stream</url>
+            <url>http://netradio.live24.gr:80/topfm93patra</url>
         </station>
-        <station name="ΑΧΑΪΑ -- Up fm 90.4">
+        <station name="ΑΧΑΪΑ -- Up fm 103.7">
             <url>http://150.140.147.131:8000</url>
         </station>
         <station name="ΑΧΑΪΑ -- Wave 97.4">
-            <url>http://live.webhosting4u.gr:8007</url>
+            <url>https://mediacp.32bit.gr:8018/stream</url>
         </station>
         <station name="ΑΧΑΪΑ -- YES! 91.2">
             <url>http://5.9.17.142:8024/;7stream.nsv</url>
-        </station>
-        <station name="ΑΧΑΪΑ -- You FM 100.1">
-            <url>http://www.youfmradio.gr:8880/stream</url>
         </station>
         <station name="ΑΧΑΪΑ -- ΑΝΟΙΞΗ  100.7">
             <url>http://solid1.streamupsolutions.com:55023/stream</url>
@@ -429,13 +427,16 @@
             <url>http://ant1patra.live24.gr:80/ant1patra1053</url>
         </station>
         <station name="ΑΧΑΪΑ -- ΑΡΩΜΑ FM 88.2">
-            <url>http://streams.onairsolution.gr:48500/like.mp3</url>
+            <url>http://streams.enjoyfm.gr:48500/aroma.mp3</url>
         </station>
         <station name="ΑΧΑΪΑ -- Έντεχνος 87.5">
             <url>http://eu7.fastcast4u.com:5174/</url>
         </station>
         <station name="ΑΧΑΪΑ -- ΕΡΤ Πάτρας 92.5">
             <url>http://radiostreaming.ert.gr:80/ert-patra</url>
+        </station>
+		<station name="ΑΧΑΪΑ -- Θέμα Πάτρας 98.7">
+            <url>https://radio.themapatras.gr/radio</url>
         </station>
         <station name="ΑΧΑΪΑ -- ΜΕΛΩΔΙΑ ΠΑΤΡΑΣ 100.4">
             <url>http://i.streams.ovh:9523/</url>
@@ -446,8 +447,8 @@
         <station name="ΑΧΑΪΑ -- Μουσική Λάμψη 103.3">
             <url>http://stream.myip.gr:9214/</url>
         </station>
-        <station name="ΑΧΑΪΑ -- ΠΑΡΑΠΟΛΙΤΙΚΑ ΠΑΤΡΑΣ 90FM">
-            <url>http://netradio.live24.gr:80/parapolitikapatra</url>
+		<station name="ΑΧΑΪΑ -- Παρέα 104.1">
+            <url>https://i.streams.ovh/sc/pareapatras/stream</url>
         </station>
         <station name="ΑΧΑΪΑ -- ΡΑΔΙΟ Γάμμα 94FM">
             <url>http://radiogamma.live24.gr:80/radiogamma</url>
@@ -455,20 +456,17 @@
         <station name="ΑΧΑΪΑ -- ΡΑΔΙΟ ΠΑΤΡΑ 106.5">
             <url>http://live.cast-control.eu:9102/</url>
         </station>
-		<station name="ΑΧΑΪΑ -- Ρυθμός Αχαΐας 94.9">
-            <url>https://freeuk8.listen2myradio.com/live.mp3?typeportmount=s1_3753_stream</url>
-        </station>
         <station name="ΑΧΑΪΑ -- Σκάι 89.4">
             <url>http://i.streams.ovh:9519/</url>
         </station>
 		<station name="ΑΧΑΪΑ -- Σκύλος FM 90.0">
-            <url>http://ample-02.radiojar.com:80/819r8wupdrruv</url>
+            <url>https://stream.radiojar.com/819r8wupdrruv</url>
         </station>
         <station name="ΑΧΑΪΑ -- Σπορ FM Πάτρας 96.3">
             <url>http://netradio.live24.gr:80/sportfmpatras</url>
         </station>
         <station name="ΑΧΑΪΑ -- Στο Κόκκινο 107.7">
-            <url>http://ample-07.radiojar.com/s5sa2z0mtceuv</url>
+            <url>https://stream.radiojar.com/s5sa2z0mtceuv</url>
         </station>
         <station name="ΑΧΑΪΑ -- ΦΑΣΜΑ 99.7">
             <url>http://178.32.62.172:8241/stream</url>
@@ -531,7 +529,7 @@
             <url>http://188.165.248.218:8011/;listen.pls</url>
         </station>
         <station name="ΔΡΑΜΑ -- Ράδιο Δράμα 99.1">
-            <url>http://78.129.224.21:24247/</url>
+            <url>http://78.129.222.62:27813/</url>
         </station>	
 
 	 ######################     ΔΩΔΕΚΑΝΗΣΑ     ##########################
@@ -546,7 +544,7 @@
             <url>http://93.174.121.193:9996/</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- ΚΩΣ-ΕΚΦΡΑΣΗ 97">
-            <url>http://5.135.154.69:6416</url>
+            <url>https://s2.free-shoutcast.com/stream/18572</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- ΚΩΣ-ΠΡΩΤΟ 91.5">
             <url>http://server.insms.gr:45114/;stream.mp3</url>
@@ -554,20 +552,20 @@
 		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Λέρος -Ράδιο Λέρος 102.5">
             <url>http://falcon.x-server.eu:8000</url>
         </station>
-		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Λέρος -Κορυφαίος 92.5">
-            <url>https://freeuk11.listen2myradio.com/live.mp3?typeportmount=s1_24977_stream</url>
-        </station>
-		<station name="ΔΩΔΕΚΑΝΗΣΑ -- ΠΑΤΜΟΣ-Πάτμος Ράδιο 91.0">
-            <url>http://eco.onestreaming.com:8070/</url>
-        </station>
 		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -BEST FM 103.1">
             <url>http://159.69.75.8:9990/</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -DERTI FM 104.9">
             <url>http://live3.istoikona.com:8017/</url>
         </station>
+		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -Feel Good 104.9">
+            <url>http://radiocp.from-dc.com:1510/stream</url>
+        </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -MELODY 104.5">
             <url>http://cast.radiohost.ovh:9080/</url>
+        </station>
+		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -NITRO 102">
+            <url>https://sp3.streams.ovh/8010/stream</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -NOTOS NEWS 97.8">
             <url>http://i.streams.ovh:9331/stream</url>
@@ -579,7 +577,7 @@
             <url>http://solid1.streamupsolutions.com:11074/stream</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -RADIO NIKITA 98.6">
-            <url>http://176.9.78.226:30122/stream</url>
+            <url>https://solid55.streamupsolutions.com/proxy/bfsbnmqg?mp=/;type=mp3</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -SKY ΡΟΔΟΣ 100">
             <url>http://s6.myradiostream.com:45076/</url>
@@ -590,10 +588,7 @@
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος-ΕΡΤ ΑΙΓΑΙΟΥ 93.1">
             <url>http://radiostreaming.ert.gr:80/ert-rodos</url>
         </station>
-        <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -ΚΛΙΚ FM 106.2">
-            <url>http://www.111.gr:8042</url>
-        </station>
-		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -Μελωδία Ρόδου 104.9">
+		<station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -Μελωδία Ρόδου 103.7">
             <url>http://live3.istoikona.com:8183/stream</url>
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -Παλμός 99.5">
@@ -607,9 +602,6 @@
         </station>
         <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -Ρόδος FM 90.7">
             <url>http://i.streams.ovh:9327/stream</url>
-        </station>
-        <station name="ΔΩΔΕΚΑΝΗΣΑ -- Ρόδος -Στο Κοκκινο 103.7">
-            <url>http://stream.radiojar.com:80/a1n0yftmb.mp3</url>
         </station>	
 
     ######################     ΕΒΡΟΣ     ##########################
@@ -636,7 +628,7 @@
             <url>http://s1.onweb.gr:8838/</url>
         </station>
         <station name="ΕΒΡΟΣ -- Metro FM 97.8">
-            <url>http://s8.onweb.gr:8706/</url>
+            <url>http://onairmediagroup.live24.gr:80/metrofm978xanthi</url>
         </station>
         <station name="ΕΒΡΟΣ -- Polisradio 102.6">
             <url>http://eco.onestreaming.com:8334/</url>
@@ -648,7 +640,7 @@
             <url>http://eco.onestreaming.com:8027/</url>
         </station>
         <station name="ΕΒΡΟΣ -- Δέλτα FM 102.3">
-            <url>http://eco.onestreaming.com:8133/</url>
+            <url>http://81.171.10.41:1088/</url>
         </station>
         <station name="ΕΒΡΟΣ -- Θράκη FM 99.8">
             <url>http://eco.onestreaming.com:8010</url>
@@ -663,7 +655,7 @@
             <url>http://eco.onestreaming.com:8012/</url>
         </station>
         <station name="ΕΒΡΟΣ -- Υπάρχω 101.4">
-            <url>http://95.217.57.76:10186/</url>
+            <url>https://cast4.magicstreams.gr:2200/ssl/sc_gr40c?mp=/stream</url>
         </station>
 		
 	######################     ΕΥΒΟΙΑ     ##########################
@@ -701,17 +693,11 @@
         <station name="ΕΥΒΟΙΑ -- ΜΠΛΕ 99">
             <url>http://mple.lalala.gr:8002/;listen.pls</url>
         </station>
-        <station name="ΕΥΒΟΙΑ -- Ο σταθμός των εργαζομένων 96.5">
-            <url>http://jayradio.eu:9972/</url>
-        </station>
         <station name="ΕΥΒΟΙΑ -- Ράδιο 1 98.1">
             <url>http://proradio.gr:8004/radio981m</url>
         </station>
 		<station name="ΕΥΒΟΙΑ -- Ράδιο Αρμονία 96.9">
-            <url>https://eu10.fastcast4u.com:4175/stream</url>
-        </station>
-        <station name="ΕΥΒΟΙΑ -- Ράδιο Εύβοια 104.1">
-            <url>http://148.251.162.206:9900/</url>
+            <url>https://muse.multiserver.gr/8006/stream/</url>
         </station>
         <station name="ΕΥΒΟΙΑ -- Ράδιο Κόσμος FM 100">
             <url>http://s1.onweb.gr:8856/</url>
@@ -720,13 +706,13 @@
             <url>http://sokfm.lalala.gr:8000/;listen.pls</url>
         </station>
         <station name="ΕΥΒΟΙΑ -- Ράδιο Ιστιαία 100.4">
-            <url>http://78.47.56.126:8018/;stream.mp3</url>
+            <url>https://stream.myip.gr/proxy/radioist2?mp=/stream</url>
         </station>
         <station name="ΕΥΒΟΙΑ -- Νέα Στύρα 95.4-Νεα Στύρα">
             <url>http://95.217.34.4:8007/</url>
         </station>
         <station name="ΕΥΒΟΙΑ -- ΑΛΙΒΕΡΙ- Ράδιο Αλιβέρι 102.2">
-            <url>http://85.25.105.194:9300/;listen.pls</url>
+            <url>http://88.99.239.52:9300/stream</url>
         </station>
         <station name="ΕΥΒΟΙΑ -- ΑΛΙΒΕΡΙ- Ράδιο Πτήση 103.2">
             <url>http://cast.streams.ovh:9116/live</url>
@@ -747,13 +733,13 @@
 	######################     ΖΑΚΥΝΘΟΣ     ##########################
 	
         <station name="ΖΑΚΥΝΘΟΣ -- Bravo FM 89.6">
-            <url>http://144.76.101.249:9304/;stream/cid=1</url>
+            <url>https://sp3.streams.ovh/8046/stream</url>
         </station>
 		<station name="ΖΑΚΥΝΘΟΣ -- Island FM 88.6">
-            <url>http://144.76.101.249:9302/playlist.asx</url>
+            <url>http://sp3.streams.ovh:8014/stream</url>
         </station>
         <station name="ΖΑΚΥΝΘΟΣ -- Ερμής Ράδιο 91.8">
-            <url>http://37.59.41.35:36662/</url>
+            <url>https://streams.upg.gr/ermis</url>
         </station>
         <station name="ΖΑΚΥΝΘΟΣ -- ΕΡΤ Ζακύνθου 95.2">
             <url>http://radiostreaming.ert.gr:80/ert-zakynthos</url>
@@ -762,7 +748,7 @@
             <url>http://eco.onestreaming.com:8217/</url>
         </station>
         <station name="ΖΑΚΥΝΘΟΣ -- Στίγμα FM 97.6">
-            <url>https://i7.streams.ovh/sc/stigmafm/stream</url>
+            <url>https://i7.streams.ovh/ic/mtronik/stream</url>
         </station>	
 
     ######################     ΗΛΕΙΑ     ##########################
@@ -770,7 +756,7 @@
         <station name="ΗΛΕΙΑ -- Aquarius 105.5">
             <url>http://s1.onweb.gr:8008/</url>
         </station>
-        <station name="ΗΛΕΙΑ -- Greca 99.4">
+        <station name="ΗΛΕΙΑ -- Ellada 98.6">
             <url>http://eco.onestreaming.com:8109/</url>
         </station>
         <station name="ΗΛΕΙΑ -- Life Radio 91.6">
@@ -786,16 +772,10 @@
             <url>http://chris.dna.gr:8004/ionionfmf</url>
         </station>
         <station name="ΗΛΕΙΑ -- Λαϊκός FM 107.1">
-            <url>http://148.251.162.206:9882/stream/</url>
+            <url>http://95.217.34.4:9971</url>
         </station>
         <station name="ΗΛΕΙΑ -- ΟΡΤ 92.3">
             <url>http://s7.onweb.gr:8546/</url>
-        </station>
-        <station name="ΗΛΕΙΑ -- Ράδιο Κέφι 101.3">
-            <url>http://live.kefiradio.gr:9988/</url>
-        </station>
-        <station name="ΗΛΕΙΑ -- Ράδιο Μακιστία 98.6">
-            <url>http://eco.onestreaming.com:8598/</url>
         </station>
         <station name="ΗΛΕΙΑ -- Αμαλιάδα-Venus FM 105.1">
             <url>http://s3.onweb.gr:8808/</url>
@@ -810,7 +790,7 @@
             <url>http://s1.onweb.gr:8412/</url>
         </station>
         <station name="ΗΜΑΘΙΑ -- Άκου 99.6">
-            <url>http://eco.onestreaming.com:8590/</url>
+            <url>http://eco.onestreaming.com:8858/stream</url>
         </station>
         <station name="ΗΜΑΘΙΑ -- Αλεξάνδρεια- Avena 97.7">
             <url>http://music.1host.gr:8977/</url>
@@ -836,6 +816,9 @@
         <station name="ΗΡΑΚΛΕΙΟ -- City FM 100">
             <url>http://eco.onestreaming.com:8173/</url>
         </station>
+        <station name="ΗΡΑΚΛΕΙΟ -- Derti 107.7">
+            <url>http://i5.streams.ovh:14008</url>
+        </station>
         <station name="ΗΡΑΚΛΕΙΟ -- DREAM FM 90.6">
             <url>http://213.239.206.179:7023/;listen.pls</url>
         </station>
@@ -852,7 +835,7 @@
             <url>http://loveradio-her.live24.gr:80/loveradio-her2</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- METRO FM 89.2">
-            <url>http://cast3.radiohost.ovh:8152/1</url>
+            <url>https://stream.crete.ovh:8443/metro</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- MUSIC CLUB 105.8">
             <url>http://192.227.85.169:4228/music1058.asx</url>
@@ -864,13 +847,16 @@
             <url>http://193.227.111.111:8002/</url>
         </station>
 		<station name="ΗΡΑΚΛΕΙΟ -- Radio Nikita 93.3">
-            <url>http://176.9.78.226:30122/stream</url>
+            <url>https://solid55.streamupsolutions.com/proxy/bfsbnmqg?mp=/;type=mp3</url>
         </station>
 		<station name="ΗΡΑΚΛΕΙΟ -- Sfera Radio Ηρακλείου 98.7">
             <url>http://stream2.proradio.gr:8004/sfera987</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Smart Radio 104.5">
             <url>http://smartradio1045.live24.gr/smartradio1045</url>
+        </station>
+		<station name="ΗΡΑΚΛΕΙΟ -- Star fm 88.4">
+            <url>https://neos.win:48840/stream</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Super 90.4">
             <url>http://dione.shoutca.st:8206/</url>
@@ -884,26 +870,23 @@
         <station name="ΗΡΑΚΛΕΙΟ -- Ελληνικός 107.2">
             <url>http://everest.streams.ovh:2390/</url>
         </station>
-        <station name="ΗΡΑΚΛΕΙΟ -- ΕΡΤ Ηράκλειο Κρήτης 97.5">
-            <url>http://radiostreaming.ert.gr:80/ert-heraklio</url>
-        </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Ερωτόκριτος 87.9">
             <url>http://stream2.proradio.gr:8004/erotokritos</url>
         </station>
+        <station name="ΗΡΑΚΛΕΙΟ -- Θέμα Κρήτης 103.1">
+            <url>http://212.83.138.48:8548</url>
+        </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Ι. Αρχιεπισκοπή Κρήτης 99.7">
-            <url>http://s1.onweb.gr:8432/</url>
+            <url>https://i7.streams.ovh/ic/iakradi1/stream</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Καρδιά 95">
-            <url>http://cast3.radiohost.ovh:8146/stream</url>
-        </station>
-        <station name="ΗΡΑΚΛΕΙΟ -- ΚΟΚΚΙΝΟ ΚΡΗΤΗΣ 88.4">
-            <url>http://144.76.92.208:8840/;listen.pls</url>
+            <url>https://stream.crete.ovh:8443/kardia</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- ΚΡΗΤΗ FM 100.3">
             <url>http://s3.onweb.gr:8520/</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Κρητικός FM 88.7">
-            <url>http://dione.shoutca.st:8433/</url>
+            <url>http://dione.shoutca.st:8443/</url>
         </station>
         <station name="ΗΡΑΚΛΕΙΟ -- Κρητικόφωνο">
             <url>http://netradio.live24.gr:80/kritikofono</url>
@@ -969,10 +952,13 @@
             <url>http://62.212.82.208:8000/</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Alpha 96.5">
-            <url>http://46.4.121.138:8888</url>
+            <url>https://streamingv2.shoutcast.com/alpha-965</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Ble 93.1">
             <url>http://radio.lancom.gr:8004/stream1</url>
+        </station>
+		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- City international 106.1">
+            <url>http://radio.lancom.gr:8012/stream5</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Cosmoradio 95.1">
             <url>http://eco.onestreaming.com:8689</url>
@@ -984,10 +970,10 @@
             <url>https://eu9.fastcast4u.com/proxy/nicper00?mp=/1'</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- FM 100">
-            <url>http://178.62.176.153:8000/stream</url>
+            <url>https://live.fm100.gr/shoutcast/fm100</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- FM 100.6">
-            <url>http://178.62.176.153:8000/fm1006</url>
+            <url>https://live.fm100.gr/shoutcast/fm1006</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- FOCUS 103.6">
             <url>http://focus.greekstream.net:80/</url>
@@ -996,13 +982,13 @@
             <url>http://178.33.135.246:5262/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Imagine 89.7">
-            <url>https://eu9.fastcast4u.com/proxy/nicperet?mp=/1</url>
+            <url>https://vip3.fastcast4u.com/proxy/imagine897?mp=/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Karamela 92.4">
             <url>http://sc.greekstream.net:4014</url>
         </station>
 		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Live FM 98.6">
-            <url>http://167.114.246.249:8001/stream</url>
+            <url>http://live.webhosting4u.gr:1290/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- LIBERO 107.4">
             <url>http://eco.onestreaming.com:8081/</url>
@@ -1011,7 +997,7 @@
             <url>http://server.insms.gr:45104/</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Metropolis 95.5">
-            <url>http://eu10.fastcast4u.com:5870/</url>
+            <url>http://metropolis.live24.gr:80/metropolis955thess</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- MORE 103">
             <url>http://85.25.214.240:8140/</url>
@@ -1020,7 +1006,7 @@
             <url>http://netradio.live24.gr:80/north98thess</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- OFF RADIO">
-            <url>http://46.28.53.118:7062/stream</url>
+            <url>https://s6.yesstreaming.net:17048/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Plus Radio 102.6">
             <url>http://85.25.214.240:8120</url>
@@ -1029,13 +1015,16 @@
             <url>http://realfmthess.live24.gr:80/realthess</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Republic 100.3">
-            <url>http://s10.voscast.com:9878</url>
+            <url>http://netradio.live24.gr/republicthess</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Rock Radio 104.7">
             <url>http://rockradio.gr:1111/</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Rso 91.7">
             <url>http://tachyon.shoutca.st:8594</url>
+        </station>
+		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Shook 104.4">
+            <url>http://s1.onweb.gr:8812/</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Sohos FM 88.7">
             <url>http://s5.onweb.gr:8418/</url>
@@ -1047,10 +1036,13 @@
             <url>http://s1.onweb.gr:8408</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- V FM 91.1">
-            <url>http://176.9.184.196:8177/stream</url>
+            <url>https://cast5.magicstreams.gr:2200/sc/vfm/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Velvet 96.8">
             <url>http://s10.voscast.com:9942</url>
+        </station>
+		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- We radio 89.4">
+            <url>http://85.10.249.132:45060/stream.mp3</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Yellow Radio 92.8">
             <url>http://radio.streamings.gr:8009/stream</url>
@@ -1073,11 +1065,17 @@
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Λυδία 94.2">
             <url>http://eu1.radiolydia.com:1086/</url>
         </station>
+		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Μύθος 93.4">
+            <url>http://s2.free-shoutcast.com:18560/stream</url>
+        </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Ορθόδοξη Παρουσία 106.8">
             <url>http://www.gwebstream.net:8008/stream</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- ΠΑΝΟΡΑΜΑ 98.4">
             <url>http://netradio.live24.gr:80/panorama984</url>
+        </station>
+		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Πρακτορείο 104.9">
+            <url>http://s3.onweb.gr:8436</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Ράδιο Ακρίτες 102.3">
             <url>http://iphone.live24.gr/akritespontou</url>
@@ -1086,7 +1084,7 @@
             <url>http://eco.onestreaming.com:8398/</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Ράδιο Έκρηξη 99.8">
-            <url>http://sc.greekstream.net:4006/</url>
+            <url>https://ice.greekstream.net/ekrixifm</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Ράδιο Θεσσαλονίκη 94.5">
             <url>http://eu7.fastcast4u.com:6156/</url>
@@ -1094,7 +1092,10 @@
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Ραδιόφωνο 904 90.4">
             <url>http://icecast.902.gr:8000/904</url>
         </station>
-        <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- ΣΤΟ ΜΩΒ">
+        <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Στο κόκκινο 91.4">
+            <url>https://stream.radiojar.com/275p8ssmb?</url>
+        </station>
+		<station name="ΘΕΣΣΑΛΟΝΙΚΗ -- ΣΤΟ ΜΩΒ">
             <url>http://stream.radiojar.com:80/kk01hepkb.mp3</url>
         </station>
         <station name="ΘΕΣΣΑΛΟΝΙΚΗ -- Τρανζίστορ 100.3">
@@ -1115,14 +1116,17 @@
 
 	######################     ΙΩΑΝΝΙΝΑ     ##########################
 
-        <station name="ΙΩΑΝΝΙΝΑ -- BEST FM 90.7">
+        <station name="ΙΩΑΝΝΙΝΑ -- Action Radio Κόνιτσα 98.2">
+            <url>https://solid1.streamupsolutions.com/proxy/jkzjmwru?mp=/stream</url>
+        </station>
+		<station name="ΙΩΑΝΝΙΝΑ -- BEST FM 90.7">
             <url>http://907ioannina.live24.gr:80/907ioannina</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Energy 101.5">
-            <url>http://ample-08.radiojar.com/apb4wybq36duv.mp3</url>
+            <url>https://stream.radiojar.com/apb4wybq36duv.mp3?</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Freestyle Radio 97.2">
-            <url>http://144.76.92.208:9720/</url>
+            <url>https://neos.win:59720/stream</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Giga FM 105.4">
             <url>http://s46.myradiostream.com:7322/</url>
@@ -1137,25 +1141,25 @@
             <url>http://i2.streams.ovh:7121</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Radio DeeJay Ιωάννινα 89.6">
-            <url>http://46.105.124.113:8089/stream</url>
+            <url>http://live.idj.gr:8089/stream</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Sky Radio 99.2">
             <url>http://live.skyradio.gr:9920/</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Spirto FM 104.7">
-            <url>http://77.69.3.59:8095/</url>
+            <url>http://130.185.234.108:8095/;.mp3</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Sport24 Radio 96.3">
             <url>http://i3.streams.ovh:12019/stream</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Star FM 95.7">
-            <url>http://136.243.61.157:8044</url>
+            <url>http://136.243.102.164:8044/stream</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Studio3 - Ράδιο Φάρος 92.7">
             <url>http://stream1.468.gr:9990/</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- Δημοτικό Ραδιόφωνο Ιωαννίνων 98.7">
-            <url>http://ample-05.radiojar.com:80/aa7dg9pmb</url>
+            <url>https://stream.radiojar.com/1qpu1agw4mzuv.mp3?</url>
         </station>
         <station name="ΙΩΑΝΝΙΝΑ -- ΕΡΤ Ιωαννίνων 88.2">
             <url>http://radiostreaming.ert.gr:80/ert-ioannina</url>
@@ -1185,16 +1189,16 @@
 	######################     ΚΑΒΑΛΑ     ##########################
 
         <station name="ΚΑΒΑΛΑ -- CAPITAL FM 107">
-            <url>http://stream.myip.gr:8034/;listen.pls</url>
+            <url>https://neos.win:59350/stream</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- COSMOS 93.2">
-            <url>http://78.47.56.126:8020/;stream/1</url>
+            <url>https://neos.win:59320/stream</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- Energy 96.6">
-            <url>http://liveradio.energy966.com:8008/</url>
+            <url>https://i8.streams.ovh/sc/radioene/stream;audio.mp3?</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- Lobby FM 101.8">
-            <url>http://95.216.244.168:9306</url>
+            <url>https://neos.win:59480/stream</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- ΕΡΤ Καβάλας 96.3">
             <url>http://radiostreaming.ert.gr:80/ert-kavala</url>
@@ -1218,13 +1222,13 @@
             <url>http://netradio.live24.gr:80/makedonissa1064</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- Ράδιο Νεάπολις 90.8">
-            <url>http://185.141.60.78:9300/stream</url>
+            <url>http://91.92.144.99:9300/;</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- Ράδιο Πρωινή 93.7">
-            <url>http://62.103.31.151:8000</url>
+            <url>http://62.103.31.151:8000/stream</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- Στο Κόκκινο Καβάλας 102.8">
-            <url>http://ample-02.radiojar.com:80/kokkino-kav-primary</url>
+            <url>https://sp3.streams.ovh/8052/stream</url>
         </station>
         <station name="ΚΑΒΑΛΑ -- Στόχος FM 99">
             <url>http://s3.onweb.gr:8016/</url>
@@ -1239,16 +1243,13 @@
             <url>http://solid2.streamupsolutions.com:24896/stream</url>
         </station>
         <station name="ΚΑΡΔΙΤΣΑ -- KISS FM">
-            <url>http://s4.onweb.gr:8492/</url>
+            <url>http://sp2.streams.ovh:8096/;listen.pls</url>
         </station>
         <station name="ΚΑΡΔΙΤΣΑ -- Ηχόραμα 100.8">
-            <url>http://s4.onweb.gr:8822</url>
+            <url>http://sp2.streams.ovh:8084</url>
         </station>
         <station name="ΚΑΡΔΙΤΣΑ -- Πρώτο FM 99.0">
             <url>http://s1.onweb.gr:8052/</url>
-        </station>
-        <station name="ΚΑΡΔΙΤΣΑ -- Παλμός 104.2">
-            <url>http://88.198.10.229:8038/stream</url>
         </station>	
 
     ######################     ΚΑΣΤΟΡΙΑ     ##########################
@@ -1261,6 +1262,9 @@
         </station>
         <station name="ΚΑΣΤΟΡΙΑ -- Astra FM 99.2">
             <url>http://astrafmkastoria.ddns.net:8000/</url>
+        </station>
+		<station name="ΚΑΣΤΟΡΙΑ -- CFM 99.9">
+            <url>https://cast4.magicstreams.gr:2200/ssl/zhzcmfjd?mp=/stream</url>
         </station>
         <station name="ΚΑΣΤΟΡΙΑ -- ΕΡΩΤΑΣ 92 FM">
             <url>http://eco.onestreaming.com:8368/</url>
@@ -1277,11 +1281,8 @@
         <station name="ΚΕΡΚΥΡΑ -- CORFU DJ 97.5">
             <url>http://s4.onweb.gr:8470/;listen.pls</url>
         </station>
-        <station name="ΚΕΡΚΥΡΑ -- Gaga Radio 98.4">
-            <url>http://s4.onweb.gr:8840/</url>
-        </station>
         <station name="ΚΕΡΚΥΡΑ -- KISS 95.8">
-            <url>http://streams2.onairsolution.gr:48500/kiis958.mp3</url>
+            <url>http://streams.enjoyfm.gr:48500/kiis958.mp3</url>
         </station>
         <station name="ΚΕΡΚΥΡΑ -- Life FM 102.9">
             <url>http://s1.onweb.gr:8836/</url>
@@ -1294,6 +1295,9 @@
         </station>
         <station name="ΚΕΡΚΥΡΑ -- STUDIO 1  87.6">
             <url>http://s3.onweb.gr:8872/</url>
+        </station>
+		<station name="ΚΕΡΚΥΡΑ -- Zoom 98.4">
+            <url>http://i3.streams.ovh:12052/</url>
         </station>
         <station name="ΚΕΡΚΥΡΑ -- Ακτίνα FM 104.7">
             <url>http://sc2.streamwithq.com:8018</url>
@@ -1314,7 +1318,7 @@
             <url>http://live.cast-control.eu:9118/stream</url>
         </station>
         <station name="ΚΕΡΚΥΡΑ -- Ράδιο Λευκίμη 105.5">
-            <url>https://cast.radiostreams.eu/s/radiolefkimmi</url>
+            <url>http://i3.streams.ovh:12006/live</url>
         </station>
         <station name="ΚΕΡΚΥΡΑ -- Ρυθμός Κέρκυρας 99.7">
             <url>http://s4.onweb.gr:8832</url>
@@ -1329,12 +1333,12 @@
             <url>http://s4.onweb.gr:8434/;listen.pls</url>
         </station>
         <station name="ΚΕΦΑΛΛΟΝΙΑ -- Ionian Galaxy 90.8">
-            <url>http://s4.onweb.gr:8018/</url>
+            <url>http://ionian.yourstreaming.gr:9302</url>
         </station>
         <station name="ΚΕΦΑΛΛΟΝΙΑ -- KissFM 100.6">
             <url>http://live.radiokiss.gr:80/kissfm1006hq.mp3</url>
         </station>
-        <station name="ΚΕΦΑΛΛΟΝΙΑ -- Ελεύθερη Ραδιοφωνία Κεφαλονιάς 93.9">
+        <station name="ΚΕΦΑΛΛΟΝΙΑ -- Νησί 93.9">
             <url>http://eco.onestreaming.com:8072/</url>
         </station>
         <station name="ΚΕΦΑΛΛΟΝΙΑ -- Παλμός 98.3">
@@ -1356,10 +1360,7 @@
             <url>http://176.31.120.166:6404</url>
         </station>
         <station name="ΚΟΖΑΝΗ -- Fresh 92.9">
-            <url>http://s8.onweb.gr:8706/</url>
-        </station>
-        <station name="ΚΟΖΑΝΗ -- NRG 89.5">
-            <url>http://i4.streams.ovh:8078</url>
+            <url>http://178.33.135.244:3062/stream</url>
         </station>
         <station name="ΚΟΖΑΝΗ -- SIERA FM 105.3 ** ΣΙΑΤΙΣΤΑ">
             <url>http://radio.sierafm.gr:55469/Sierafm</url>
@@ -1371,7 +1372,7 @@
             <url>http://radiostreaming.ert.gr:80/ert-kozani</url>
         </station>
         <station name="ΚΟΖΑΝΗ -- Λαϊκός 106.3">
-            <url>http://s3.onweb.gr:8510</url>
+            <url>http://sp2.streams.ovh:8102</url>
         </station>
         <station name="ΚΟΖΑΝΗ -- Ορθοδοξία και Παράδοση 103">
             <url>http://radio.lts-group.eu:52390/ANS</url>
@@ -1388,11 +1389,8 @@
         <station name="ΚΟΡΙΝΘΙΑ -- Brake 101.6">
             <url>http://stream2.proradio.gr:8004/brake</url>
         </station>
-        <station name="ΚΟΡΙΝΘΙΑ -- Eco Radio 87.9">
-            <url>http://stream.radiojar.com/w73tsf566reuv</url>
-        </station>
 		<station name="ΚΟΡΙΝΘΙΑ -- Just 96.4">
-            <url>http://live.just964.gr:8000/main?</url>
+            <url>https://live.just964.gr:8000/main</url>
         </station>
         <station name="ΚΟΡΙΝΘΙΑ -- Kiss Extra Κορινθίας 93.8">
             <url>http://stream.kiisextra.gr:48500/kiis.mp3</url>
@@ -1401,7 +1399,7 @@
             <url>http://s3.onweb.gr:8472/</url>
         </station>
         <station name="ΚΟΡΙΝΘΙΑ -- Loutraki FM 96.9">
-            <url>http://s3.onweb.gr:8510/</url>
+            <url>http://comet.shoutca.st:8312</url>
         </station>
         <station name="ΚΟΡΙΝΘΙΑ -- MY RADIO 89.6">
             <url>http://eco.onestreaming.com:8528/</url>
@@ -1418,20 +1416,11 @@
         <station name="ΚΟΡΙΝΘΙΑ -- Επικοινωνία 89.1">
             <url>http://s2.onweb.gr:8608/</url>
         </station>
-		 <station name="ΚΟΡΙΝΘΙΑ -- Ηλέκτρα 98.8">
-            <url>http://173.212.222.126:8010/radio.mp3</url>
-        </station>
 		 <station name="ΚΟΡΙΝΘΙΑ -- Μοριάς FM 102.7">
             <url>http://live.e-streaming.eu:8120/</url>
         </station>
-        <station name="ΚΟΡΙΝΘΙΑ -- ΠΑΛΜΟΣ 98.2">
-            <url>http://173.212.222.126:8000/radio.mp3</url>
-        </station>
-        <station name="ΚΟΡΙΝΘΙΑ -- ΠΕΝΑ 103.1">
-            <url>http://173.212.222.126:8020/radio.mp3</url>
-        </station>
         <station name="ΚΟΡΙΝΘΙΑ -- Ράδιο Ανάμνηση 103.5">
-            <url>http://live.anamnisi.gr:8508/</url>
+            <url>https://sp3.streams.ovh/8056/stream</url>
         </station>
         <station name="ΚΟΡΙΝΘΙΑ -- Ράδιο Ενέργεια 106.4">
             <url>http://s1.onweb.gr:8828/</url>
@@ -1448,7 +1437,10 @@
 
 	######################     ΚΥΚΛΑΔΕΣ     ##########################
 
-        <station name="ΚΥΚΛΑΔΕΣ -- Κίμωλος FM 106">
+        <station name="ΚΥΚΛΑΔΕΣ -- Άνδρος-Αστέρας Radio 92">
+            <url>https://solid1.streamupsolutions.com/proxy/xjqdwtrq?mp=/stream:80</url>
+        </station>
+		<station name="ΚΥΚΛΑΔΕΣ -- Κίμωλος FM 106">
             <url>http://46.4.81.216:8000/;listen.pls</url>
         </station>
 		<station name="ΚΥΚΛΑΔΕΣ -- Μήλος-Μήλος 108">
@@ -1457,20 +1449,11 @@
 		<station name="ΚΥΚΛΑΔΕΣ -- Μύκονος-VENUS 99.3">
             <url>http://s7.onweb.gr:8410/</url>
         </station>
-        <station name="ΚΥΚΛΑΔΕΣ -- Μύκονος-Γαλαξίας 93 FM 93.0">
-            <url>http://netradio.live24.gr:80/galaxias93-mykonos</url>
-        </station>
         <station name="ΚΥΚΛΑΔΕΣ -- Μύκονος-Μύκονος FM 98.1">
             <url>http://radio.streamings.gr:8007/stream</url>
         </station>
 		<station name="ΚΥΚΛΑΔΕΣ -- Νάξος-AEGEAN VOICE">
-            <url>http://s3.onweb.gr:8010</url>
-        </station>
-		<station name="ΚΥΚΛΑΔΕΣ -- Νάξος-Κυκλάδες FM 97.6">
-            <url>https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_13530_stream_951676059</url>
-        </station>
-        <station name="ΚΥΚΛΑΔΕΣ -- Νάξος-Μεσόγειος στο Kόκκινο 105.4">
-            <url>http://ample-02.radiojar.com:80/g6eg7gpa6k5tv?</url>
+            <url>http://s3.onweb.gr:8810</url>
         </station>
         <station name="ΚΥΚΛΑΔΕΣ -- Νάξος-Ραδιοφωνία Κυκλάδων">
             <url>http://ice.streamcloud.mediacdn.com:80/rkykladwn</url>
@@ -1481,11 +1464,23 @@
         <station name="ΚΥΚΛΑΔΕΣ -- Πάρος-Ηχώ FM 102.1">
             <url>http://eco.onestreaming.com:8280/</url>
         </station>
+		<station name="ΚΥΚΛΑΔΕΣ -- Σαντορίνη- FM 1 101">
+            <url>https://neos.win:59261/stream</url>
+        </station>
+        <station name="ΚΥΚΛΑΔΕΣ -- Σαντορίνη- Top Melody 104.9">
+            <url>https://radio.streamings.gr/proxy/topmelody?mp=/stream</url>
+        </station>
 		<station name="ΚΥΚΛΑΔΕΣ -- Σαντορίνη- Ράδιο Αποσπερίτης 94.5">
             <url>http://eco.onestreaming.com:8600/</url>
         </station>
         <station name="ΚΥΚΛΑΔΕΣ -- Σαντορίνη- FM 106.4">
             <url>http://eco.onestreaming.com:8316</url>
+        </station>
+		<station name="ΚΥΚΛΑΔΕΣ -- Σαντορίνη- Μεσόγειος 105.4">
+            <url>https://stream.radiojar.com/g6eg7gpa6k5tv</url>
+        </station>
+        <station name="ΚΥΚΛΑΔΕΣ -- Σαντορίνη- Φάρος - Ant1 105.9">
+            <url>http://eco.onestreaming.com:8406/;</url>
         </station>
         <station name="ΚΥΚΛΑΔΕΣ -- Σιφνος-Radio Active 91.3">
             <url>https://streamyourdream.org:8050/radioactive</url>
@@ -1521,7 +1516,10 @@
         <station name="ΛΑΚΩΝΙΑ -- BEST RADIO 103.9">
             <url>http://cast4.magicstreams.gr:10179</url>
         </station>
-        <station name="ΛΑΚΩΝΙΑ -- Fly FM 89.7">
+        <station name="ΛΑΚΩΝΙΑ -- Ellada FM 96.7">
+            <url>http://89.163.217.252:8042</url>
+        </station>
+		<station name="ΛΑΚΩΝΙΑ -- Fly FM 89.7">
             <url>http://eco.onestreaming.com:8272/</url>
         </station>
         <station name="ΛΑΚΩΝΙΑ -- Notos Radio 94.9">
@@ -1548,9 +1546,6 @@
         <station name="ΛΑΡΙΣΑ -- Ελασσόνα-Ραδιο Ελασσόνα 88.4">
             <url>http://solid33.streamupsolutions.com:30012/live</url>
         </station>
-        <station name="ΛΑΡΙΣΑ -- Ελασσόνα-ΚΙΒΩΤΟΣ 87.8">
-            <url>http://s8.onweb.gr:8710/</url>
-        </station>
         <station name="ΛΑΡΙΣΑ -- Ελασσόνα-Party 97.1">
             <url>http://s1.onweb.gr:8824/</url>
         </station>
@@ -1561,10 +1556,16 @@
             <url>http://avantifm.live24.gr:80/avantifm</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Cocktail FM 89.0">
-            <url>http://130.185.144.199:5042/</url>
+            <url>http://109.169.23.22:28219/;</url>
+        </station>
+		<station name="ΛΑΡΙΣΑ -- HEAT FM 92.2">
+            <url>https://cast.radiohost.ovh/hitfm92?mp=/stream</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Larissa DeeJay 95.7">
             <url>http://jayradio.eu:9302/stream</url>
+        </station>
+		<station name="ΛΑΡΙΣΑ -- METRO FM 94.2">
+            <url>http://netradio.live24.gr:80/agia</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- NRG 91">
             <url>http://s3.onweb.gr:9100</url>
@@ -1578,9 +1579,6 @@
         <station name="ΛΑΡΙΣΑ -- Scanner FM 102.2">
             <url>http://s1.onweb.gr:8074</url>
         </station>
-        <station name="ΛΑΡΙΣΑ -- Αγιά 94.2">
-            <url>http://netradio.live24.gr:80/agia</url>
-        </station>
         <station name="ΛΑΡΙΣΑ -- Δημοτική Ραδιοφωνία Λάρισας 93.6">
             <url>http://s3.onweb.gr:8464/</url>
         </station>
@@ -1588,16 +1586,19 @@
             <url>http://radiostreaming.ert.gr:80/ert-larisa</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Ι. Μητρ. Λαρίσης και Τυρνάβου 96.3">
-            <url>http://s1.onweb.gr:8004/</url>
+            <url>http://in.icss.com.gr:8000/stream_007</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- ΛΑΙΚΟΣ 105.7">
-            <url>http://s7.onweb.gr:8542</url>
+            <url>http://sp2.streams.ovh:8106</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Παραδοσιακός 106.6">
-            <url>http://s4.onweb.gr:8826</url>
+            <url>http://sp2.streams.ovh:8104</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Ράδιο 69 104.4">
             <url>http://116.202.246.201:8004/stream</url>
+        </station>
+		<station name="ΛΑΡΙΣΑ -- Ράδιο TRT 95.1">
+            <url>http://cast.iplayradio.net:8002/stream</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Ράδιο Βελίκα">
             <url>http://69.30.243.166:9192/</url>
@@ -1618,7 +1619,7 @@
             <url>http://eco.onestreaming.com:8103/</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Ρυθμός FM 98.8">
-            <url>http://eco.onestreaming.com:8189/</url>
+            <url>https://mediacp.32bit.gr:8010/stream</url>
         </station>
         <station name="ΛΑΡΙΣΑ -- Σφαίρα Λάρισας 101.8">
             <url>http://cast3.radiohost.ovh:8280/stream</url>
@@ -1630,7 +1631,7 @@
             <url>http://10440fm.live24.gr:80/10440fm</url>
         </station>
         <station name="ΛΑΣΗΘΙ -- Άγ. Νικόλαος-ΛΑΤΩ FM 103.3">
-            <url>http://stream.latofm.gr:8100/latofm?.mp3</url>
+            <url>http://51.91.170.243:8100/latofm?.mp3</url>
         </station>
         <station name="ΛΑΣΗΘΙ -- Ιεράπετρα-MADness 95">
             <url>http://s7.onweb.gr:8044/</url>
@@ -1640,6 +1641,9 @@
         </station>
 		<station name="ΛΑΣΗΘΙ -- Ιεράπετρα-Planet Radio 90.6">
             <url>http://s5.onweb.gr:8858/</url>
+        </station>
+		<station name="ΛΑΣΗΘΙ -- Ιεράπετρα-Ηχώ FM 99.8">
+            <url>http://eco.onestreaming.com:8520/;</url>
         </station>
         <station name="ΛΑΣΗΘΙ -- Ιεράπετρα-Ράδιο Βερενίκη 89.5">
             <url>https://everest.streams.ovh:1785/stream</url>
@@ -1651,7 +1655,7 @@
             <url>http://s4.onweb.gr:8466/</url>
         </station>
         <station name="ΛΑΣΗΘΙ -- Σητεία-ΖΑΚΡΟΣ ΡΑΔΙΟ">
-            <url>http://136.243.61.157:8288/</url>
+            <url>https://cloudwebradio.com/8288/;</url>
         </station>
         <station name="ΛΑΣΗΘΙ -- Σητεία-Style FM 100">
             <url>http://eco.onestreaming.com:8576/</url>
@@ -1667,9 +1671,6 @@
         </station>
         <station name="ΛΕΣΒΟΣ -- Happy Radio 103.8">
             <url>https://everest.streams.ovh:2165/stream</url>
-        </station>
-        <station name="ΛΕΣΒΟΣ -- Hit 93.6">
-            <url>https://sp.streams.ovh:7005/</url>
         </station>
         <station name="ΛΕΣΒΟΣ -- KISS 101.5 ΜΥΤΙΛΗΝΗ">
             <url>http://eco.onestreaming.com:8550/</url>
@@ -1713,8 +1714,8 @@
         <station name="ΛΕΥΚΑΔΑ -- Ρυθμός 101.9">
             <url>http://i3.streams.ovh:12214</url>
         </station>
-        <station name="ΛΕΥΚΑΔΑ -- Στούντιο Λευκάτας 90.5">
-            <url>http://eco.onestreaming.com:8091/stream</url>
+        <station name="ΛΕΥΚΑΔΑ -- Ράδιο Καρυά 96.7">
+            <url>https://media.streambrothers.com:8276/stream</url>
         </station>	
 
     ######################     ΛΗΜΝΟΣ     ##########################
@@ -1726,7 +1727,7 @@
             <url>http://eco.onestreaming.com:8438/;listen.pls</url>
         </station>
 		<station name="ΛΗΜΝΟΣ -- Radio Melody 96.7">
-            <url>https://eu6.fastcast4u.com/proxy/tmatso002?mp=/1</url>
+            <url>https://eu4.fastcast4u.com/proxy/jlwmwogj?mp=/1</url>
         </station>
 		<station name="ΛΗΜΝΟΣ -- Μ.Ε.Α.Σ Ράδιο Λήμνου">
             <url>http://88.198.9.172:8022/stream</url>
@@ -1747,7 +1748,7 @@
             <url>http://cast3.radiohost.ovh:8008/stream</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Kiss FM Βόλου 98.0">
-            <url>http://streamyourdream.org:18026/kiss98</url>
+            <url>https://s6.onweb.gr:7029/stream</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Nova FM 106">
             <url>http://novafm106.media.friktoria.net:8000/novafm106.mp3</url>
@@ -1765,7 +1766,7 @@
             <url>http://s1.onweb.gr:8854/</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Radio Marconi 96,1">
-            <url>http://np1.nfs.gr:8000/</url>
+            <url>http://npe.nfs.gr:8000/;?</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- SportFM 89.5">
             <url>http://www.gointernet.gr:8005</url>
@@ -1773,14 +1774,14 @@
         <station name="ΜΑΓΝΗΣΙΑ -- Star FM 95.3">
             <url>http://solid2.streamupsolutions.com:61263/stream</url>
         </station>
+		<station name="ΜΑΓΝΗΣΙΑ -- Studio 12 107.8">
+            <url>https://cast.streams.ovh/sc/studio12volos/stream</url>
+        </station>
         <station name="ΜΑΓΝΗΣΙΑ -- TOP FM 106.4">
             <url>http://s6.onweb.gr:8012/</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Ακρόαμα 99.8">
-            <url>https://cast.radiostreams.eu/s/akroama998/</url>
-        </station>
-        <station name="ΜΑΓΝΗΣΙΑ -- Άλφα Λαϊκός 103">
-            <url>https://i6.streams.ovh:2200/ssl/alfafm?mp=/stream</url>
+            <url>http://188.165.248.218:8007/stream</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Βόλος 98.6">
             <url>http://www.gointernet.gr:8014/</url>
@@ -1801,10 +1802,10 @@
             <url>http://www.gointernet.gr:8003/</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Ράδιο Ένα 102.5">
-            <url>http://eco.onestreaming.com:8374</url>
+            <url>http://solid55.streamupsolutions.com:32015/stream</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Ράδιο Ζημιά 96.5">
-            <url>http://i2.streams.ovh:7193/live</url>
+            <url>https://www.gointernet.gr:9012/streams</url>
         </station>
         <station name="ΜΑΓΝΗΣΙΑ -- Ράδιο Πήλιο 93.4">
             <url>http://s3.myradiostream.com:4060/</url>
@@ -1819,7 +1820,7 @@
 	######################     ΜΕΣΣΗΝΙΑ     ##########################
 
         <station name="ΜΕΣΣΗΝΙΑ -- Apollon FM 98.1">
-            <url>http://apollonfm981.dyndns.org:8124/</url>
+            <url>http://s2.e-resellers.gr:8022/</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Best Radio 97.3">
             <url>http://s.bizr.gr:8000/source</url>
@@ -1831,28 +1832,25 @@
             <url>http://iphone.live24.gr/focus996</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Kiss fm 89">
-            <url>http://www.realserver.info:8006/</url>
+            <url>https://kiss-89-kalamata.live24.gr/kiss89kalamata</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Life fm 88">
-            <url>http://life.onairsolution.gr:48500/life.mp3</url>
-        </station>
-        <station name="ΜΕΣΣΗΝΙΑ -- Like FM 95.7">
-            <url>http://streams.onairsolution.gr:48500/like957.mp3</url>
+            <url>https://streams.enjoyfm.gr:48502/life.mp3</url>
         </station>
 		<station name="ΜΕΣΣΗΝΙΑ -- Lover FM Καλαμάτα 107.7">
-            <url>http://78.129.185.84:12720</url>
+            <url>http://78.129.185.84:38646/</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Time FM 90.9">
             <url>http://148.251.179.119:8052/stream?1467793057848.mp3</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Άρωμα 98.5">
-            <url>http://streams.onairsolution.gr:48500/aroma.mp3</url>
+            <url>http://streams.enjoyfm.gr:48500/aroma.mp3</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Δίαυλος 99.2">
             <url>http://213.239.206.179:7060</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- ΕΜΦΑΣΙΣ 91.8">
-            <url>http://emfasis.onairsolution.gr:48500/emfasis.mp3</url>
+            <url>https://streams.enjoyfm.gr:48502/emfasis.mp3</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- ΕΡΤ Καλαμάτας 107.2">
             <url>http://radiostreaming.ert.gr:80/ert-kalamata</url>
@@ -1864,7 +1862,7 @@
             <url>http://213.239.206.179:7086</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- ΠΑΛΜΟΣ 90.5">
-            <url>http://helium.kncdn.net:7502/</url>
+            <url>https://i3.streams.ovh/ic/palmos/stream</url>
         </station>
         <station name="ΜΕΣΣΗΝΙΑ -- Ράδιο Κυπαρισσία 93.6">
             <url>https://radiokyp.radioca.st/</url>
@@ -1876,10 +1874,10 @@
             <url>http://onairmediagroup.live24.gr/goalfm1051xanthi</url>
         </station>
 		<station name="ΞΑΝΘΗ -- Kral fm 107.8">
-            <url>http://s4.onweb.gr:8404</url>
+            <url>http://onairmediagroup.live24.gr:80/kralfm100xanthi</url>
         </station>
         <station name="ΞΑΝΘΗ -- LEGEND FM 101.6">
-            <url>http://s6.onweb.gr:8002/</url>
+            <url>http://onairmediagroup.live24.gr:80/legend1016xanthi</url>
         </station>
         <station name="ΞΑΝΘΗ -- Nova radio 93.1">
             <url>http://stream-mp3aac.live24.gr:80/nova931</url>
@@ -1888,40 +1886,34 @@
             <url>http://stream-mp3aac.live24.gr:80/paradise903</url>
         </station>
         <station name="ΞΑΝΘΗ -- Radio Deejay Xanthi90.6">
-            <url>http://s4.onweb.gr:8402/</url>
+            <url>http://onairmediagroup.live24.gr:80/radiodeejay946xanthi</url>
         </station>
         <station name="ΞΑΝΘΗ -- Radio Play 91.5">
             <url>http://s6.onweb.gr:8058/;listen.pls</url>
         </station>
         <station name="ΞΑΝΘΗ -- Star FM 88.8">
-            <url>http://s4.onweb.gr:8850/;stream.mp3</url>
+            <url>http://onairmediagroup.live24.gr/star888xanthi</url>
         </station>
         <station name="ΞΑΝΘΗ -- Super fm 88">
             <url>http://eco.onestreaming.com:8354</url>
         </station>
-        <station name="ΞΑΝΘΗ -- Top FM 96.9">
-            <url>http://172.93.237.106:8255/;stream.mp3</url>
-        </station>
         <station name="ΞΑΝΘΗ -- Velvet 98.4">
-            <url>http://s3.onweb.gr:8440/stream</url>
+            <url>http://onairmediagroup.live24.gr:80/velvet984xanthi</url>
         </station>
 		<station name="ΞΑΝΘΗ -- Virus 105.5">
             <url>http://onairmediagroup.live24.gr/virus1055xanthi</url>
         </station>
         <station name="ΞΑΝΘΗ -- Γλέντι FM 101.1">
-            <url>http://s3.onweb.gr:8532/</url>
+            <url>http://onairmediagroup.live24.gr:80/glenti1011xanthi</url>
         </station>
         <station name="ΞΑΝΘΗ -- Μελωδικός 105.7">
             <url>http://eco.onestreaming.com:8054/</url>
-        </station>
-        <station name="ΞΑΝΘΗ -- Ομορφη Πόλη 89.9 FM">
-            <url>http://213.16.179.209:8081/broadwavehigh.mp3</url>
         </station>
         <station name="ΞΑΝΘΗ -- Ράδιο Ξάνθη 93.5">
             <url>http://78.47.56.126:8022</url>
         </station>
         <station name="ΞΑΝΘΗ -- Ρυθμός 106">
-            <url>http://s4.onweb.gr:8406/</url>
+            <url>http://onairmediagroup.live24.gr:80/rythmos106xanthi</url>
         </station>	
 		
 	######################     ΠΕΛΛΑ     ##########################
@@ -1936,10 +1928,10 @@
     ######################     ΠΙΕΡΙΑ     ##########################
 
         <station name="ΠΙΕΡΙΑ - COSMOS FM 103.8">
-            <url>http://144.76.92.208:8038/;listen.pls</url>
+            <url>https://neos.win:48038/stream</url>
         </station>
 		<station name="ΠΙΕΡΙΑ - Forever 96.3">
-            <url>http://144.76.92.208:9630/stream</url>
+            <url>http://46.4.48.7:9630/stream</url>
         </station>
         <station name="ΠΙΕΡΙΑ - POWER FM 90.2">
             <url>http://eco.onestreaming.com:8031/;listen.pls</url>
@@ -1951,7 +1943,7 @@
             <url>http://s3.onweb.gr:8030/</url>
         </station>
         <station name="ΠΙΕΡΙΑ -- Δημοτικό Ραδιόφωνο Κατερίνης 95.3">
-            <url>http://stgr.info:9530</url>
+            <url>https://neos.win:59530/stream</url>
         </station>
 		<station name="ΠΙΕΡΙΑ -- ΔΙΟΝΥΣΟΣ 89.2">
             <url>http://s6.onweb.gr:8054/</url>
@@ -1971,9 +1963,6 @@
         <station name="ΠΙΕΡΙΑ -- Ράδιο Μάνος 103.4">
             <url>http://i5.streams.ovh:14123/live</url>
         </station>
-        <station name="ΠΙΕΡΙΑ -- Ράδιο Πιερία 104.2">
-            <url>http://s6.onweb.gr:8018/</url>
-        </station>
         <station name="ΠΙΕΡΙΑ -- ΣΚΑΪ 92.6">
             <url>http://s1.onweb.gr:8866/</url>
         </station>	
@@ -1990,7 +1979,7 @@
             <url>http://sc2.streamwithq.com:8028/stream</url>
         </station>
         <station name="ΠΡΕΒΕΖΑ -- Ράδιο Άλφα 98.1">
-            <url>http://184.154.90.186:8306/stream</url>
+            <url>https://i8.streams.ovh/sc/radioalf/stream</url>
         </station>
         <station name="ΠΡΕΒΕΖΑ -- Ράδιο Ιόνιο 99.9">
             <url>http://167.114.131.90:5192/;listen.pls</url>
@@ -2008,13 +1997,13 @@
             <url>https://skyptolemaida.radioca.st/stream</url>
         </station>
         <station name="ΠΤΟΛΕΜΑΪΔΑ -- vivaGR 102.8">
-            <url>http://s17.myradiostream.com:8714/;listen.pls</url>
+            <url>http://solid9.streamupsolutions.com:8095/stream</url>
         </station>
         <station name="ΠΤΟΛΕΜΑΪΔΑ -- vivaFM 95.3">
             <url>http://s17.myradiostream.com:8742/;listen.pls</url>
         </station>
         <station name="ΠΤΟΛΕΜΑΪΔΑ -- Ράδιο Μελωδία 102.4">
-            <url>http://5.196.41.242:8004</url>
+            <url>https://media.blemobile.co.uk:8000/stream</url>
         </station>	
 		
 	######################     ΡΕΘΥΜΝΟ     ##########################
@@ -2032,10 +2021,13 @@
             <url>http://sc2.streamwithq.com:8054/</url>
         </station>
         <station name="ΡΕΘΥΜΝΟ -- Radio Nikita 89.9">
-            <url>http://176.9.78.226:30122/stream</url>
+            <url>https://solid55.streamupsolutions.com/proxy/bfsbnmqg?mp=/;type=mp3</url>
+        </station>
+		 <station name="ΡΕΘΥΜΝΟ -- Sky FM 91.3">
+            <url>http://cressida.shoutca.st:9158/stream</url>
         </station>
         <station name="ΡΕΘΥΜΝΟ -- Studio Ρεθυμνο 98">
-            <url>https://live.webhosting4u.gr/proxy/studiorethymno980?mp=/stream</url>
+            <url>http://sc2.streamwithq.com:8120/;</url>
         </station>
         <station name="ΡΕΘΥΜΝΟ -- Team FM 102">
             <url>http://185.78.220.57:9200/</url>
@@ -2059,7 +2051,7 @@
             <url>http://s8.onweb.gr:8702/</url>
         </station>
         <station name="ΡΕΘΥΜΝΟ -- Τάλως FM 88.6">
-            <url>http://185.78.220.57:9202</url>
+            <url>http://eco.onestreaming.com:8840/stream</url>
         </station>	
 
     ######################     ΡΟΔΟΠΗ     ##########################
@@ -2067,14 +2059,11 @@
         <station name="ΡΟΔΟΠΗ -- Cinar FM 91.8">
             <url>http://95.173.162.190:9964/</url>
         </station>
-        <station name="ΡΟΔΟΠΗ -- Joy FM 106.9">
-            <url>http://37.59.205.232:7888/</url>
-        </station>
         <station name="ΡΟΔΟΠΗ -- MY FM 89.5">
-            <url>http://pstnet2.shoutcastnet.com:26800/</url>
+            <url>http://cast.radiohost.ovh:9037</url>
         </station>
         <station name="ΡΟΔΟΠΗ -- Radio City 107.6 FM">
-            <url>http://ip17.radyotelekom.com:9998/;stream.mp3</url>
+            <url>https://anadolu.liderhost.com.tr/9998/stream:9998/;stream.mp3</url>
         </station>
         <station name="ΡΟΔΟΠΗ -- Δίαυλος Ροδόπης 92.4">
             <url>http://eco.onestreaming.com:8588/</url>
@@ -2095,13 +2084,13 @@
             <url>http://solid2.streamupsolutions.com:24942/stream</url>
         </station>
         <station name="ΡΟΔΟΠΗ -- Ρυθμός Κομοτηνής 103.1">
-            <url>http://144.76.92.208:7777/</url>
+            <url>https://neos.win:37777/stream</url>
         </station>
 		
 	######################     ΣΑΜΟΣ     ##########################
 
         <station name="ΣΑΜΟΣ -- 2000FM 99.8">
-            <url>http://s6.onweb.gr:8014/</url>
+            <url>https://i8.streams.ovh/ic/2000fm/stream</url>
         </station>
         <station name="ΣΑΜΟΣ -- Radio Cafe 102.4">
             <url>http://s6.onweb.gr:8046/</url>
@@ -2113,7 +2102,7 @@
             <url>http://s3.onweb.gr:8500/</url>
         </station>
         <station name="ΣΑΜΟΣ -- Ιωνία Radio 89.4">
-            <url>http://148.251.162.206:9314/stream</url>
+            <url>http://89.163.217.252:9314</url>
         </station>
         <station name="ΣΑΜΟΣ -- Ράδιο Σάμος 102">
             <url>http://everest.streams.ovh:1850/stream</url>
@@ -2133,9 +2122,6 @@
         <station name="ΣΕΡΡΕΣ -- Radio1 101FM">
             <url>http://s3.onweb.gr:8814/</url>
         </station>
-        <station name="ΣΕΡΡΕΣ -- Vibe FM 104.8">
-            <url>http://nemstream.ddns.net:12050/</url>
-        </station>
         <station name="ΣΕΡΡΕΣ -- Αθλητικό Metropolis Σερρών 97.2">
             <url>http://s6.onweb.gr:8092/</url>
         </station>
@@ -2145,9 +2131,6 @@
         <station name="ΣΕΡΡΕΣ -- ΕΡΤ Σερρών 89.6">
             <url>http://radiostreaming.ert.gr:80/ert-serres</url>
         </station>
-        <station name="ΣΕΡΡΕΣ -- Ζενίθ 88.8">
-            <url>http://radio.streamings.gr:8089/stream</url>
-        </station>
         <station name="ΣΕΡΡΕΣ -- Ράδιο 98.2">
             <url>http://shoutcast.24radio.gr:8074/</url>
         </station>
@@ -2155,7 +2138,7 @@
             <url>http://s3.onweb.gr:8452/</url>
         </station>
         <station name="ΣΕΡΡΕΣ -- Ράδιο Νότες 106">
-            <url>http://5.9.17.142:8002/</url>
+            <url>http://solid33.streamupsolutions.com:33024/stream</url>
         </station>
         <station name="ΣΕΡΡΕΣ -- Ράδιο Σέρρες 98.9">
             <url>http://solid33.streamupsolutions.com:32014/stream</url>
@@ -2163,20 +2146,24 @@
         <station name="ΣΕΡΡΕΣ -- Ράδιο Σιντική 92.1">
             <url>http://cast.radiohost.ovh:9039/stream</url>
         </station>
-        <station name="ΣΕΡΡΕΣ -- Σοκολάτα 102.4">
+        <station name="ΣΕΡΡΕΣ -- Ρόδον 95">
+            <url>http://live3.istoikona.net:8324/stream</url>
+        </station>
+		<station name="ΣΕΡΡΕΣ -- Σοκολάτα 102.4">
             <url>http://radio.streamings.gr:8043/stream?1546865665943</url>
         </station>
 		
     ######################     ΤΡΙΚΑΛΑ     ##########################
 
-        <station name="ΤΡΙΚΑΛΑ -- Deep Radio 94.4">
-            <url>https://i3.streams.ovh:2200/ssl/deepradi?mp=/stream</url>
-        </station>
+        
 		<station name="ΤΡΙΚΑΛΑ -- Easy FM 105.3">
             <url>http://s4.onweb.gr:8076</url>
         </station>
         <station name="ΤΡΙΚΑΛΑ -- LoudRadio 88.8">
             <url>http://s3.onweb.gr:8888/</url>
+        </station>
+		<station name="ΤΡΙΚΑΛΑ -- Studio 4 94.4">
+            <url>http://i3.streams.ovh:13145/live</url>
         </station>
         <station name="ΤΡΙΚΑΛΑ -- ΑΝΕΜΟΣ 92 FM">
             <url>http://s4.onweb.gr:8842/</url>
@@ -2185,7 +2172,7 @@
             <url>http://eu5.fastcast4u.com:5020/stream</url>
         </station>
 		<station name="ΤΡΙΚΑΛΑ -- Λαικός 88">
-            <url>http://s6.onweb.gr:8806</url>
+            <url>http://sp2.streams.ovh:8098</url>
         </station>
         <station name="ΤΡΙΚΑΛΑ -- Ράδιο Ζυγός FM 100">
             <url>http://zygos.onweb.gr:8870</url>
@@ -2194,7 +2181,7 @@
             <url>http://s1.onweb.gr:8834/</url>
         </station>
         <station name="ΤΡΙΚΑΛΑ -- Ράδιο Στουρναραιϊκα 92.5">
-            <url>http://88.198.10.229:8103/stream</url>
+            <url>https://i8.streams.ovh/sc/radiostournareika/stream</url>
         </station>
         <station name="ΤΡΙΚΑΛΑ -- Ραδιοφωνική Λέσχη 97.6">
             <url>http://s3.onweb.gr:8438/</url>
@@ -2218,13 +2205,16 @@
             <url>http://s4.onweb.gr:8876/</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Dj Λαμία 91.2">
-            <url>http://91.121.222.81:8653/stream</url>
+            <url>http://mediacp.32bit.gr:8014/stream</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Nova FM 92.1">
             <url>http://s3.onweb.gr:8032</url>
         </station>
+		<station name="ΦΘΙΩΤΙΔΑ -- NRG 92.4">
+            <url>http://s6.onweb.gr:9240/stream</url>
+        </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Oscar Radio 90.9">
-            <url>http://91.121.222.81:8650/stream</url>
+            <url>http://mediacp.32bit.gr:8008/stream</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Phase 87.7">
             <url>http://streaming.multiserver.gr:8013</url>
@@ -2233,7 +2223,7 @@
             <url>http://eco.onestreaming.com:8434/</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Λαικός Radio 100.6">
-            <url>http://s5.onweb.gr:8864/</url>
+            <url>http://sp2.streams.ovh:8100</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Λαμία FM1 96.2">
             <url>http://sc2.streamwithq.com:8092/</url>
@@ -2248,13 +2238,13 @@
             <url>http://s7.onweb.gr:8554/</url>
         </station>
 		<station name="ΦΘΙΩΤΙΔΑ -- Ράδιο Ρούμελη News FM 98">
-            <url>http://91.121.222.81:8388/;listen.pls</url>
+            <url>https://live.webhosting4u.gr/radioroumelinews</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Ρυθμός 94.6">
             <url>http://sc2.streamwithq.com:8098/</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Στυλίδα FM 94.1">
-            <url>http://91.121.222.81:8532/</url>
+            <url>https://live.webhosting4u.gr/stylidafm</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Φυστίκι Radio 95.8">
             <url>http://s4.onweb.gr:8444/</url>
@@ -2268,14 +2258,11 @@
         <station name="ΦΛΩΡΙΝΑ -- ΕΡΤ Φλώρινας 96.6">
             <url>http://radiostreaming.ert.gr:80/ert-florina</url>
         </station>
-        <station name="ΦΛΩΡΙΝΑ -- Ράδιο Αμύνταιο 91.2">
-            <url>http://s2.onweb.gr:8610/stream</url>
-        </station>
         <station name="ΦΛΩΡΙΝΑ -- Ράδιο Λέχοβο 97.1">
             <url>http://s4.onweb.gr:8468</url>
         </station>
         <station name="ΦΛΩΡΙΝΑ -- Ρυθμός 104">
-            <url>http://i4.streams.ovh:8108/stream</url>
+            <url>https://i7.streams.ovh/ic/rythmos1044/stream</url>
         </station>	
 		
 	######################     ΦΩΚΙΔΑ     ##########################
@@ -2289,8 +2276,14 @@
         <station name="ΧΑΛΚΙΔΙΚΗ -- Radio Star 95.5">
             <url>http://europa.shoutca.st:8968/stream</url>
         </station>
+		<station name="ΧΑΛΚΙΔΙΚΗ -- Super FM 99.5">
+            <url>http://stream.webmonster.gr/super995-hi</url>
+        </station>
         <station name="ΧΑΛΚΙΔΙΚΗ -- Δημοτικό Ραδιόφωνο Πολύγυρου 90.8">
             <url>http://eco.onestreaming.com:8526/</url>
+        </station>
+		<station name="ΧΑΛΚΙΔΙΚΗ -- Ράδιο Χαλκιδική 98.8">
+            <url>https://ice.greekstream.net/988</url>
         </station>
 		
 	######################     ΧΑΝΙΑ     ##########################
@@ -2307,11 +2300,14 @@
         <station name="ΧΑΝΙΑ -- Easy 93.2">
             <url>http://sc2.streamwithq.com:8118/</url>
         </station>
+		<station name="ΧΑΝΙΑ -- Fresh 105">
+            <url>https://webradio.neatv.gr:8443/stream</url>
+        </station>
         <station name="ΧΑΝΙΑ -- Magic 98.2">
             <url>http://sc2.streamwithq.com:8042/</url>
         </station>
         <station name="ΧΑΝΙΑ -- Max FM 100.2">
-            <url>http://167.114.246.249:8012/stream</url>
+            <url>http://solid9.streamupsolutions.com:8066/stream</url>
         </station>
         <station name="ΧΑΝΙΑ -- MRB Radio 101.0">
             <url>http://stream.radio-bf.de:80/srb</url>
@@ -2322,26 +2318,23 @@
         <station name="ΧΑΝΙΑ -- Q Radio Χανιά Sport FM 102.7">
             <url>http://s4.onweb.gr:8896</url>
         </station>
-        <station name="ΧΑΝΙΑ -- Space FM 107.5">
-            <url>http://s3.onweb.gr:8010/</url>
-        </station>
         <station name="ΧΑΝΙΑ -- Star FM 97.7">
             <url>http://sc2.streamwithq.com:8020/</url>
-        </station>
-        <station name="ΧΑΝΙΑ -- Super FM 89.6">
-            <url>http://s3.onweb.gr:8454/</url>
         </station>
         <station name="ΧΑΝΙΑ -- Top FM 106.5">
             <url>http://sc2.streamwithq.com:8086</url>
         </station>
         <station name="ΧΑΝΙΑ -- Venus 91 FM">
-            <url>http://eco.onestreaming.com:8534/</url>
+            <url>http://dos.venus91.gr:9100/stream</url>
+        </station>
+		<station name="ΧΑΝΙΑ -- Zarpa FM 89.6">
+            <url>http://s3.onweb.gr:8454/</url>
         </station>
         <station name="ΧΑΝΙΑ -- Αντέννα Δυτ. Κρήτης 97.1">
             <url>http://sc2.streamwithq.com:8008/</url>
         </station>
         <station name="ΧΑΝΙΑ -- Γαύδος FM 88">
-            <url>http://streaming.multiserver.gr:8044/</url>
+            <url>http://sc2.streamwithq.com:8050/stream</url>
         </station>
         <station name="ΧΑΝΙΑ -- Δίκτυο 91.5">
             <url>http://eu1.fastcast4u.com:3688</url>
@@ -2355,11 +2348,8 @@
         <station name="ΧΑΝΙΑ -- ΕΡΤ Χανίων 104">
             <url>http://radiostreaming.ert.gr:80/ert-chania</url>
         </station>
-        <station name="ΧΑΝΙΑ -- Έρως 105">
-            <url>http://78.46.113.105:8000/stream?</url>
-        </station>
         <station name="ΧΑΝΙΑ -- Κρητικόραμα 93.8">
-            <url>http://46.4.37.132:9382/</url>
+            <url>http://prech.kritikorama.eu:9382/prech</url>
         </station>
         <station name="ΧΑΝΙΑ -- Νότος FM 101.8">
             <url>http://s4.onweb.gr:8484/</url>
@@ -2397,9 +2387,6 @@
         <station name="ΧΙΟΣ -- Ant1 ΑΙΓΑΙΟΥ 105">
             <url>http://eco.onestreaming.com:8440/</url>
         </station>
-        <station name="ΧΙΟΣ -- Παλμός 94.9">
-            <url>https://sslstreamconverter.com/public/radiostreamfiles/radio45.php</url>
-        </station>
 		<station name="ΧΙΟΣ -- Πρώτο Πρόγραμμα Χίου 90.7">
             <url>http://eco.onestreaming.com:8300/</url>
         </station>
@@ -2409,7 +2396,10 @@
         <station name="ΧΙΟΣ -- Ραδιο ΜΑΣΤΙΧΑ 107.7">
             <url>http://46.4.98.200:8000/stream</url>
         </station>
-        <station name="ΧΙΟΣ -- Χρώμα FM 91.9">
+        <station name="ΧΙΟΣ -- Χιακός 102.4">
+            <url>https://cast2.radiohost.ovh/xiakos?mp=/stream</url>
+        </station>
+		<station name="ΧΙΟΣ -- Χρώμα FM 91.9">
             <url>http://netradio.live24.gr:80/hroma918</url>
         </station>
 
