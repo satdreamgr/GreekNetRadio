@@ -3,70 +3,232 @@
 <xml>
     <interstations>
 
-    ########################### ROCK-CLASSIC ROCK ###########################
+    
+	################### BALLADS #######################
+        <station name="BALLADS- 181.fm - The Heart">
+            <url>http://listen.181fm.com/181-heart_128k.mp3</url>
+        </station>
+	    <station name="BALLADS- AMERICA'S BEST BALLADS RADIO">
+            <url>https://strm112.1.fm/onelive_mobile_mp3</url>
+        </station>
+        <station name="BALLADS- Heartbeat FM">
+            <url>http://cast5.magicstreams.gr:8010/stream</url>
+        </station>
+		<station name="BALLADS- Love Songs by Radio UNO Digital">
+            <url>https://rh.fluidstream.eu/lovefm.mp3</url>
+        </station>
+		<station name="BALLADS- Love classic">
+            <url>https://strm112.1.fm/loveclassics_mobile_mp3</url>
+        </station>
+		<station name="BALLADS- Loveradio.ie">
+            <url>https://stream.btsstream.com:8092/loveradio.aac</url>
+        </station>
+        <station name="BALLADS- Love live">
+            <url>https://streaming.radiostreamlive.com/radiolovelive_devices</url>
+        </station>
+        <station name="BALLADS- POLSKASTACJA .PL">
+            <url>https://stream.open.fm/61</url>
+        </station>
+        <station name="BALLADS- Radio1 BALLADS Rodos">
+            <url>http://111.gr:8000/;</url>
+        </station>
+        <station name="BALLADS- Slow Radio ">
+            <url>https://bluford.torontocast.com/proxy/wynekpwy/slowradio</url>
+        </station>
+		
+		########################### Chillout ##############################
 
-        <station name="ROCK-AUSTRIA-ANTENNE VORARLBERG">
-            <url>http://194.208.21.29:8030/</url>
+        <station name="CHILLOUT-GERMANY-RMNrelax">
+            <url>http://84.19.182.117:8023/</url>
         </station>
-        <station name="ROCK-AUSTRIA-Radio Arabella">
-            <url>http://stream05.arabella.vss.kapper.net:8000/</url>
+        <station name="CHILLOUT-chillout lounge radio">
+            <url>http://strm112.1.fm/chilloutlounge_mobile_mp3</url>
         </station>
-        <station name="ROCK-IRELAND-Radio Nova">
-            <url>http://radionova128.media.vistatec.ie:80/</url>
+        <station name="CHILLOUT-CHILLOUT RADIO">
+            <url>http://cast.loungefm.com.ua/loungefm</url>
         </station>
-        <station name="ROCK-ITALY-105 Rock Hits">
-            <url>http://shoutcast.unitedradio.it:1117/</url>
+		
+		########################### Classical music ##############################
+        <station name="CLASSIC-BRAZIL-Antena 1">
+            <url>http://s9.mediastreaming.it:7050/</url>
         </station>
-        <station name="ROCK-NEDERLANDS-City FM">
-            <url>http://91.221.151.240:8043</url>
+        <station name="CLASSIC-ITALY-Venice Classic Radio">
+            <url>https://uk2.streamingpulse.com/ssl/vcr1</url>
         </station>
-        <station name="ROCK-NEDERLANDS-Nova Classic Rock">
-            <url>http://173.236.29.52:80/</url>
+        <station name="CLASSIC-SWISS- classic">
+            <url>https://stream.srg-ssr.ch/m/rsc_de/mp3_128</url>
         </station>
-        <station name="ROCK-NORWAY-ROCK FM">
-            <url>http://91.121.219.80:8440</url>
+        <station name="CLASSIC-USA-WMNR Fine Arts Radio">
+            <url>http://war.str3am.com:7320/</url>
         </station>
-        <station name="ROCK-POLAND-Radio ZET Rock">
-            <url>http://91.121.219.80:8440</url>
+        <station name="CLASSIC-MEXICO-MILLENIUM BELLA MUSICA">
+            <url>http://streaming.promomedios.com:8008/</url>
         </station>
-        <station name="ROCK-POLAND-PolskaStacja Modern Rock">
-            <url>http://91.121.18.185:7250/</url>
-        </station>
-        <station name="ROCK-UK-Arrow Classic Rock">
-            <url>http://81.173.3.132:8082</url>
-        </station>
-        <station name="ROCK-UK-Radio Caroline">
-            <url>http://sc6.radiocaroline.net:8040/</url>
-        </station>
-        <station name="ROCK-UK-Real Radio XS">
-            <url>http://gmgmp3.shoutcast.streamuk.com:10028/</url>
-        </station>
+		
+		########################### Country Music ##############################
 
-    ########################### OLDIES ##############################
+        <station name="COUNTRY-GERMANY-Country 108">
+            <url>http://tuner.country108.com:80/</url>
+        </station>
+        <station name="COUNTRY-181 Real country">
+            <url>https://listen.181fm.com/181-realcountry_128k.mp3</url>
+        </station>
+        <station name="COUNTRY-USA-181.FM">
+            <url>http://uplink.duplexfx.com:8018/</url>
+        </station>
+        <station name="COUNTRY-WEB-Classic Country 1630">
+            <url>http://198.105.216.204:8194/</url>
+        </station>
+        <station name="COUNTRY-IRELAND-irish country music radio">
+            <url>http://46.28.49.164:7502</url>
+        </station>
+		
+		########################### Dance ##############################
+
+        
+        <station name="DANCE-UK-ENERGY FM">
+            <url>http://uk1.internet-radio.com:15614/</url>
+        </station>
+        <station name="DANCE-UK-Real Dance">
+            <url>https://dancestream.danceradiouk.com/;</url>
+        </station>
+        <station name="DANCE-SPAIN-Loca Fm">
+            <url>http://81.46.247.191:8045/live</url>
+        </station>
+        <station name="DANCE-WEB-Kiss Dance">
+            <url>https://stream-mz.planetradio.co.uk/webcast6high.aac</url>
+        </station>
+        <station name="DANCE-UK-Discover Trance Radio">
+            <url>https://streamer.radio.co/s85ebb74c4/listen</url>
+        </station>
+        <station name="DANCE-NEDERLANDS-DEEP FM">
+            <url>https://20873.live.streamtheworld.com/DEEP_RADIO_SC</url>
+        </station>
+		<station name="DANCE-DANCE fM">
+            <url>https://broadcast.dancefmlive.com/radio/8010/radio.mp3</url>
+        </station>
+		<station name="DANCE-DANCE ATTACK">
+            <url>http://149.255.59.162:8045/1</url>
+        </station>
+        
+		########################### DISCO ##############################
+
+        
+        <station name="DISCO-POLAND-RADIODISCOPOLO FM">
+            <url>http://91.121.139.101:8000</url>
+        </station>
+        <station name="DISCO-ITALY-80 90 Lovers - Radio Mela">
+            <url>http://5.39.82.157:8016/;</url>
+        </station>
+        <station name="DISCO-ITALY-RadioItalo">
+            <url>http://51.159.66.120:10018/italopower</url>
+        </station>
+        <station name="DISCO-SWISS-1.FM - DISCO BALL RADIO">
+            <url>http://sc8.1.fm:8100/</url>
+        </station>
+        <station name="DISCO-ITALY-Blue Magic FM">
+            <url>http://stream01.script24.net:9046/stream/1/</url>
+        </station>
+        <station name="DISCO-MEXICO-Stream 70s Disco">
+            <url>https://panel.retrolandigital.com:8170/listen</url>
+        </station>
+        <station name="DISCO-WEB-MusicGalaxy radio">
+            <url>https://cast4.magicstreams.gr:10159/;</url>
+        </station>
+        <station name="DISCO-POLAND-Italo Radio PL">
+            <url>http://radio.italodance.pl:7694/;stream.nsv</url>
+        </station>
+        <station name="DISCO-GREECE-Memories Web Radio">
+            <url>http://stream1.468.gr:8108</url>
+        </station>
+        <station name="DISCO-USA-181.FM Studio">
+            <url>http://uplink.duplexfx.com:8072/</url>
+        </station>
+		################### other-international #######################
+		############## BULGARIA ##########################
+
+        
+        <station name="INTERNATIONAL-BULGARIA-Katra FM 100.4">
+            <url>http://www.katrafm.com:8000/live</url>
+        </station>
+            <station name="INTERNATIONAL-BULGARIA-Radio Fresh">
+            <url>http://193.108.24.21:8000/fresh</url>
+        </station>
+        <station name="INTERNATIONAL-BULGARIA-Radio Zorana 87.6 FM">
+            <url>http://212.95.165.98:8001/;</url>
+        </station>
+        <station name="INTERNATIONAL-BULGARIA-Radio Z-Rock">
+            <url>http://live.btvradio.bg/z-rock.mp3</url>
+        </station>
+		<station name="INTERNATIONAL-CZ-Olomoucke Radio ">
+            <url>https://icecast7.play.cz/casradio128.mp3</url>
+        </station>
+            <station name="INTERNATIONAL-CZ-radiobeat.cz">
+            <url>https://icecast5.play.cz/radiobeat128.mp3</url>
+        </station>
+        
+        ########################### JAZZ ##############################
+
+        <station name="JAZZ-BELGIUM-Crooze.fm">
+            <url>http://streams.crooze.fm:8000/stream/1/</url>
+        </station>
+		<station name="JAZZ-CANADA-JAZZ.FM91">
+            <url>https://jazzfm91.streamb.live/SB00009</url>
+        </station>
+		<station name="JAZZ-NEDERLANDS-Radio Jazz">
+            <url>https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream/1/</url>
+        </station>
+		<station name="JAZZ-NEDERLANDS-Sublime FM">
+            <url>https://25283.live.streamtheworld.com/SUBLIMEAAC.aac</url>
+        </station>
+        <station name="JAZZ-UK-Amazing Smooth and Jazz">
+            <url>http://208.77.21.33:17530</url>
+        </station>
+		<station name="JAZZ-UK-BEST SMOOTH JAZZ">
+            <url>https://bsj.lucasmultimedia.com:8002/stream.ogg</url>
+        </station>
+		<station name="JAZZ-UK-Jazz FM UK">
+            <url>https://stream-al.planetradio.co.uk/jazzhigh.aac</url>
+        </station>
+        
+     
+        ########################### LATIN ##############################
+        <station name="LATIN-ITALY-RADIO MAMBO">
+            <url>https://mambo.newradio.it/stream</url>
+        </station>
+		<station name="LATIN-SPAIN-Salsa Stereo 100%">
+            <url>https://cloud8.vsgtech.co/8032/stream</url>
+        </station>
+        <station name="LATIN-SPAIN-Suave">
+            <url>https://sp.totalstreaming.net/8156/stream</url>
+        </station>
+        <station name="LATIN-USA-LA PACHANGUERA FM">
+            <url>http://radiolatina.info:8772/</url>
+        </station>
+        <station name="LATIN-WEB-Bachata FM">
+            <url>https://latinabachata.ice.infomaniak.ch/latinabachata.mp3</url>
+        </station>
+        
+        
+        ########################### OLDIES ##############################
 
         <station name="OLDIES-BELGIUM-Webradio Golden Flash">
-            <url>http://208.43.9.96:8338/</url>
+            <url>https://stream.goldenflash.be/goldenflash.mp3</url>
         </station>
-        <station name="OLDIES-ThreeTen Radio">
-            <url>http://93.104.210.97:7890</url>
+		<station name="OLDIES-GERMANY-Gold fm">
+            <url>https://icepool.silvacast.com/GOLDFM.mp3</url>
+        </station>
+		<station name="OLDIES-IRELAND-Dublins ABC">
+            <url>http://hazel.torontocast.com:2140/stream</url>
+        </station>
+		<station name="OLDIES-ITALY-Studio 54">
+            <url>http://remakeit.radioca.st:8528/stream/;</url>
         </station>
         <station name="OLDIES-Music Goldies">
-            <url>http://95.141.24.125:80</url>
-        </station>
-        <station name="OLDIES-ITALY-192Radio">
-            <url>http://62.212.132.53:8520</url>
-        </station>
-        <station name="OLDIES-IRELAND-Dublins ABC">
-            <url>http://67.213.213.137:8067</url>
+            <url>https://stream.radio32.ch/radio32goldies</url>
         </station>
         <station name="OLDIES-USA-Beatlesradio">
             <url>http://www.beatlesradio.com:8000/</url>
-        </station>
-        <station name="OLDIES-GERMANY-Gold fm">
-            <url>http://sc1.streamfox.com:8060/</url>
-        </station>
-        <station name="OLDIES-ITALY-Studio 54">
-            <url>http://208.77.21.31:9810</url>
         </station>
         <station name="OLDIES-USA-181.FM oldies">
             <url>http://uplink.duplexfx.com:8046/</url>
@@ -74,347 +236,33 @@
         <station name="OLDIES-WEB-80s Planet">
             <url>http://eu2.servemp3.com:80/</url>
         </station>
+	########################### ROCK-CLASSIC ROCK ###########################
 
-    ########################### Country Music ##############################
-
-        <station name="COUNTRY-GERMANY-Country 108">
-            <url>http://tuner.country108.com:80/</url>
+        <station name="ROCK-AUSTRIA-ANTENNE VORARLBERG">
+            <url>https://webradio.antennevorarlberg.at/live</url>
         </station>
-        <station name="COUNTRY-181 Real country">
-            <url>http://108.61.73.119:14034</url>
+        <station name="ROCK-IRELAND-Radio Nova">
+            <url>http://edge2.audioxi.com/NOVA</url>
         </station>
-        <station name="COUNTRY-USA-Absolute COUNTRY">
-            <url>http://205.164.36.137:80</url>
+        <station name="ROCK-NEDERLANDS-City FM">
+            <url>http://91.221.151.240:8043</url>
         </station>
-        <station name="COUNTRY-USA-HPR1">
-            <url>http://173.193.219.163:8443</url>
+        <station name="ROCK-NEDERLANDS-Nova Classic Rock">
+            <url>http://server-51.stream-server.nl:8427/</url>
         </station>
-        <station name="COUNTRY-USA-181.FM">
-            <url>http://uplink.duplexfx.com:8018/</url>
+        <station name="ROCK-NORWAY-ROCK FM">
+            <url>http://91.121.219.80:8440</url>
         </station>
-        <station name="COUNTRY-USA-Today's Hot Country">
-            <url>http://66.55.143.197:8005</url>
+        <station name="ROCK-POLAND-Radio ZET Rock">
+            <url>http://91.121.219.80:8440</url>
         </station>
-        <station name="COUNTRY-WEB-Classic Country 1630">
-            <url>http://205.164.36.123:80</url>
+        <station name="ROCK-UK-Arrow Classic Rock">
+            <url>https://stream.gal.io/arrow</url>
         </station>
-        <station name="COUNTRY-IRELAND-irish country music radio">
-            <url>http://46.28.49.164:7502</url>
+        <station name="ROCK-UK-Radio Caroline">
+            <url>http://sc6.radiocaroline.net:8040/</url>
         </station>
-        <station name="COUNTRY- SWITZERLAND-DRS 2006">
-            <url>http://rs3.radiostreamer.com:9330/</url>
-        </station>
-
-    ########################### RnB / HipHop ##############################
-
-        <station name="RnB-HipHop-HUNGARY-Luxfunk Radio">
-            <url>http://live.luxfunkradio.com:8200/</url>
-        </station>
-        <station name="RnB-HipHop-UK-UK VIBES.NET">
-            <url>http://83.170.104.91:40300</url>
-        </station>
-        <station name="RnB-HipHop-105 RADIO">
-            <url>http://shoutcast.unitedradio.it:1113/</url>
-        </station>
-        <station name="RnB-HipHop-POLAND-POLSKASTACJA .PL">
-            <url>http://91.121.116.107:9310/</url>
-        </station>
-        <station name="RnB-HipHop-UK-R n B Radio">
-            <url>http://webstreamer.co.uk:8024/</url>
-        </station>
-        <station name="RnB-HipHop-Big R radio">
-            <url>http://174.36.108.142:8730</url>
-        </station>
-        <station name="RnB-HipHop-UK-Ikonic Radio">
-            <url>http://s8.voscast.com:7710/</url>
-        </station>
-
-    ########################### Dance ##############################
-
-        <station name="DANCE-BELGIUM-Top Radio">
-            <url>http://ns24907.ovh.net:8000/</url>
-        </station>
-        <station name="DANCE-UK-ENERGY FM">
-            <url>http://uk1.internet-radio.com:15614/</url>
-        </station>
-        <station name="DANCE-IRELAND-KISS FM">
-            <url>http://uk1.internet-radio.com:15476/</url>
-        </station>
-        <station name="DANCE-UK-Real Dance">
-            <url>http://uk3.internet-radio.com:10138/</url>
-        </station>
-        <station name="DANCE-SERBIA-TDI Radio">
-            <url>http://streaming4.tdiradio.com:80/</url>
-        </station>
-        <station name="DANCE-SPAIN-Loca Fm">
-            <url>http://audio-online.net:23500/</url>
-        </station>
-        <station name="DANCE-ROMANIA-RADIO HIT">
-            <url>http://dance.radiohitfm.ro:8989/</url>
-        </station>
-        <station name="DANCE-USA-C89.5">
-            <url>http://208.76.152.74:8000/</url>
-        </station>
-        <station name="DANCE-WEB-Radio Flo">
-            <url>http://s8.viastreaming.net:7010/</url>
-        </station>
-        <station name="DANCE-UK-Discover Trance Radio">
-            <url>http://hathor.discovertrance.com:8006/</url>
-        </station>
-        <station name="DANCE-NEDERLANDS-DEEP FM">
-            <url>http://sc-01.deep.fm:80/</url>
-        </station>
-
-    ########################### Chillout ##############################
-
-        <station name="CHILLOUT-GERMANY-RMNrelax">
-            <url>http://84.19.182.117:8023/</url>
-        </station>
-        <station name="CHILLOUT-chillout lounge radio">
-            <url>http://205.164.36.3:80</url>
-        </station>
-        <station name="CHILLOUT-UK-CHILLOUT RADIO">
-            <url>http://s8.voscast.com:7696/</url>
-        </station>
-
-    ########################### JAZZ ##############################
-
-        <station name="JAZZ-BELGIUM-Crooze.fm">
-            <url>http://77.92.64.44:8129/stream</url>
-        </station>
-        <station name="JAZZ-UK-Amazing Smooth and Jazz">
-            <url>http://208.77.21.33:17530</url>
-        </station>
-        <station name="JAZZ-NEDERLANDS-Sublime FM">
-            <url>http://uk1.internet-radio.com:4086/</url>
-        </station>
-        <station name="JAZZ-USA-SmoothJazz.com Global Radio">
-            <url>http://sj128.hnux.com:80/</url>
-        </station>
-        <station name="JAZZ-USA-KCSM Jazz 91">
-            <url>http://sc1.abacast.com:8240/</url>
-        </station>
-        <station name="JAZZ-RUSSIA-Renessans 94.2">
-            <url>http://217.20.164.163:8014/</url>
-        </station>
-        <station name="JAZZ-USA-WWNO 3">
-            <url>http://nyc01.egihosting.com:18840/</url>
-        </station>
-        <station name="JAZZ-UK-Jazz FM UK">
-            <url>http://listen.onmyradio.net:8002/</url>
-        </station>
-        <station name="JAZZ-CANADA-JAZZ.FM91">
-            <url>http://streamerepsilon.jazz.fm:8000/</url>
-        </station>
-        <station name="JAZZ-UK-BEST SMOOTH JAZZ">
-            <url>http://64.95.243.144:8002/</url>
-        </station>
-        <station name="JAZZ-NEDERLANDS-Radio Jazz">
-            <url>http://streamnl.atinet.nl:8000/</url>
-        </station>
-
-    ########################### Classical music ##############################
-
-        <station name="CLASSIC-ITALY-Venice Classic Radio">
-            <url>http://109.123.116.202:8022/</url>
-        </station>
-        <station name="CLASSIC-NEDERLANDS-AVRO Baroque">
-            <url>http://95.85.60.14:7002/128</url>
-        </station>
-        <station name="CLASSIC-BRAZIL-Antena 1">
-            <url>http://s9.mediastreaming.it:7050/</url>
-        </station>
-        <station name="CLASSIC-USA-Classical WETA 90.9 FM">
-            <url>http://38.100.128.106:8000/fmlive</url>
-        </station>
-        <station name="CLASSIC-SWISS-1.FM classic">
-            <url>http://205.164.36.15:80</url>
-        </station>
-        <station name="CLASSIC-CHINA-Chinese Classical Music">
-            <url>http://208.110.70.66:8202</url>
-        </station>
-        <station name="CLASSIC-USA-WMNR Fine Arts Radio">
-            <url>http://war.str3am.com:7320/</url>
-        </station>
-        <station name="CLASSIC-WEB-wbjc">
-            <url>http://wbjc-sc.streamguys.org:80/</url>
-        </station>
-        <station name="CLASSIC-MEXICO-MILLENIUM BELLA MUSICA">
-            <url>http://streaming.promomedios.com:8008/</url>
-        </station>
-
-    ########################### VARIUS-POP ##############################
-
-        <station name="VARIUS POP-100Hitz">
-            <url>http://69.4.234.186:9200</url>
-        </station>
-        <station name="VARIUS POP-GERMANY-JACK FM">
-            <url>http://tuner.jackfm.de:80/</url>
-        </station>
-        <station name="VARIUS POP-GERMANY-RTL 89.0">
-            <url>http://mp3.89.0rtl.de:80/</url>
-        </station>
-        <station name="VARIUS POP-WEB-8FM">
-            <url>http://server-09.stream-server.nl:8336/</url>
-        </station>
-        <station name="VARIUS POP-CANADA-A1 Hits">
-            <url>http://96.47.231.106:8002</url>
-        </station>
-        <station name="VARIUS POP-MOLDOVA-KissFM Chisinau">
-            <url>http://89.28.66.205:8000/</url>
-        </station>
-        <station name="VARIUS POP-USA-Seattle's Hot Jamz">
-            <url>http://stream-high.kmih.org:8000/</url>
-        </station>
-        <station name="VARIUS POP-FRANCE-Alouette">
-            <url>http://ns57.ovh.net:80/</url>
-        </station>
-        <station name="VARIUS POP-SERBIA- TDI Radio">
-            <url>http://streaming.tdiradio.com:9133/</url>
-        </station>
-        <station name="VARIUS POP-WEB-RADIO K4">
-            <url>http://80.80.160.232:8080/</url>
-        </station>
-
-    ########################### LATIN ##############################
-
-        <station name="LATIN-SPAIN-Suave">
-            <url>http://108.48.64.91:8000</url>
-        </station>
-        <station name="LATIN-USA-LA PACHANGUERA FM">
-            <url>http://radiolatina.info:8772/</url>
-        </station>
-        <station name="LATIN-SPAIN-Estrella 90.5 FM">
-            <url>http://173.193.227.87:11527</url>
-        </station>
-        <station name="LATIN-SPAIN-Radio Bolero">
-            <url>http://198.245.61.65:7236</url>
-        </station>
-        <station name="LATIN-ITALY-RADIO MAMBO">
-            <url>http://stream1.mambo.it:8062/</url>
-        </station>
-        <station name="LATIN-SPAIN-Salsa Stereo 100%">
-            <url>http://50.30.40.140:8050</url>
-        </station>
-        <station name="LATIN-WEB-Bachata FM">
-            <url>http://184.171.254.134:9880</url>
-        </station>
-
-    ########################### DISCO ##############################
-
-        <station name="DISCO-UK-DanceRadioUkChatBox">
-            <url>http://uk2.internet-radio.com:31076/</url>
-        </station>
-        <station name="DISCO-POLAND-RADIODISCOPOLO FM">
-            <url>http://91.121.139.101:8000</url>
-        </station>
-        <station name="DISCO-GERMANY-Discofoxhimme">
-            <url>http://s14.derstream24.de:8000/</url>
-        </station>
-        <station name="DISCO-ITALY-Disco House">
-            <url>http://198.50.160.101:9892</url>
-        </station>
-        <station name="DISCO-ITALY-80 90 Lovers - Radio Mela">
-            <url>http://onlineshoutcast.com:8016/</url>
-        </station>
-        <station name="DISCO-ITALY-RadioItalo">
-            <url>http://174.36.237.66:8088</url>
-        </station>
-        <station name="DISCO-ITALY-DivaDisco">
-            <url>http://88.191.125.117:8080</url>
-        </station>
-        <station name="DISCO-SWISS-1.FM - DISCO BALL RADIO">
-            <url>http://sc8.1.fm:8100/</url>
-        </station>
-        <station name="DISCO-POLAND-POLSKASTACJA .PL">
-            <url>http://188.165.20.29:8560/</url>
-        </station>
-        <station name="DISCO-POLAND-DiscoStacja">
-            <url>http://194.150.185.129:9014/</url>
-        </station>
-        <station name="DISCO-ITALY-Blue Magic FM">
-            <url>http://198.50.160.101:9892</url>
-        </station>
-        <station name="DISCO-SLOVENIA-MNestor Says: SloveniaLive!">
-            <url>http://slovenijanet.com:8000/</url>
-        </station>
-        <station name="DISCO-MEXICO-Stream 80 s Disco">
-            <url>http://184.107.179.162:1632</url>
-        </station>
-        <station name="DISCO-WEB-MusicGalaxy radio">
-            <url>http://174.36.237.66:8080/</url>
-        </station>
-        <station name="DISCO-POLAND-Italo Radio PL">
-            <url>http://sc5.24cast.pl:8100/</url>
-        </station>
-        <station name="DISCO-GREECE-Memories Web Radio">
-            <url>http://stream1.468.gr:8108</url>
-        </station>
-        <station name="DISCO-ROMANIA-M4U">
-            <url>http://dance.m4u.ro:7260</url>
-        </station>
-        <station name="DISCO-GREECE-80s fun club">
-            <url>http://173.233.94.248:9300</url>
-        </station>
-        <station name="DISCO-BRAZIL-studio62">
-            <url>http://64.15.147.221:9032/</url>
-        </station>
-        <station name="DISCO-USA-181.FM Studio">
-            <url>http://uplink.duplexfx.com:8072/</url>
-        </station>
-
-    ################### BALLADS #######################
-
-        <station name="BALLADS-AMERICA'S BEST BALLADS RADIO">
-            <url>http://205.164.35.119:80</url>
-        </station>
-        <station name="BALLADS- POLSKASTACJA .PL">
-            <url>http://91.121.103.183:6210</url>
-        </station>
-        <station name="BALLADS-Radio1 BALLADS Rodos">
-            <url>http://62.75.214.11:8010</url>
-        </station>
-        <station name="BALLADS-ANTENA 10 Radio LOVE">
-            <url>http://50.23.34.220:5064</url>
-        </station>
-        <station name="BALLADS-181.fm - The Heart">
-            <url>http://108.61.73.118:8006</url>
-        </station>
-        <station name="BALLADS- Loveradio.ie">
-            <url>http://31.14.40.241:9722</url>
-        </station>
-        <station name="BALLADS- Love Songs by Radio UNO Digital">
-            <url>http://87.117.202.97:9538</url>
-        </station>
-        <station name="BALLADS- Love Music">
-            <url>http://82.196.14.242:9000</url>
-        </station>
-        <station name="BALLADS- Love Fm">
-            <url>http://188.165.242.32:8108</url>
-        </station>
-        <station name="BALLADS- Heartbeat FM">
-            <url>http://50.7.173.162:8000</url>
-        </station>
-
-    ################### other-international #######################
-
-    ############## Bulgaria ##########################
-
-        <station name="BULGARIA-Radio Plovdiv 94.0 FM">
-            <url>http://78.130.205.229:28/live128</url>
-        </station>
-        <station name="BULGARIA-Katra FM 100.4">
-            <url>http://www.katrafm.com:8000/live</url>
-        </station>
-            <station name="BULGARIA-Radio Fresh">
-            <url>http://193.108.24.21:8000/fresh</url>
-        </station>
-        <station name="BULGARIA-Radio Zorana 87.6 FM">
-            <url>http://streaming.gesbg.com/radio128_zorana.mp3</url>
-        </station>
-        <station name="BULGARIA-Radio Z-Rock">
-            <url>http://live.btvradio.bg/z-rock.mp3</url>
-        </station>
+        
 
     </interstations>
 </xml>
