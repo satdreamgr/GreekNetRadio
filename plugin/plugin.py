@@ -182,10 +182,7 @@ class FavouriteStations(GreekNetRadioCategory):
             self.stationsList = []
             count = config.plugins.Cradio.stations_count.value
             for i in range(0, count):
-                #name = config.plugins.Cradio.stations[i].name.value
-                code = config.plugins.Cradio.stations[i].code.value.split(",")
-                name = code[0]
-                url = code[1]
+                name, url = config.plugins.Cradio.stations[i].code.value.split(",")
                 self.stationsList.append((name, url))
             if len(self.stationsList) != 0:
                 self["key_green"].setText(_("Play"))
