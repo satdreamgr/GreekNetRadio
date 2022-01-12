@@ -42,14 +42,14 @@ initConfig()
 class GreekNetRadio(Screen):
 
     skin = """
-        <screen position="center,center" size="3*e/4,3*e/4" title="Internet radio">
+        <screen position="center,center" size="3*e//4,3*e//4" title="Internet radio">
             <widget name="menu" position="0,10" size="e,e-60" itemHeight="40" font="Body" textOffset="10,0" scrollbarMode="showOnDemand"/>
             <ePixmap pixmap="buttons/key_red.png" position="0,e-40" size="40,40" alphatest="blend"/>
-            <ePixmap pixmap="buttons/key_green.png" position="e/4,e-40" size="40,40" alphatest="blend"/>
-            <ePixmap pixmap="buttons/key_blue.png" position="3*e/4,e-40" size="40,40" alphatest="blend"/>
-            <widget source="key_red" render="Label" position="40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
-            <widget source="key_green" render="Label" position="e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
-            <widget source="key_blue" render="Label" position="3*e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <ePixmap pixmap="buttons/key_green.png" position="e//4,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_blue.png" position="3*e//4,e-40" size="40,40" alphatest="blend"/>
+            <widget source="key_red" render="Label" position="40,e-40" size="e//4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_green" render="Label" position="e//4+40,e-40" size="e//4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_blue" render="Label" position="3*e//4+40,e-40" size="e//4-40,40" font="Regular;20" valign="center"/>
         </screen>"""
 
     def __init__(self, session):
@@ -98,14 +98,14 @@ class GreekNetRadio(Screen):
 class GreekNetRadioCategory(Screen):
 
     skin = """
-        <screen position="center,center" size="3*e/4,3*e/4" title="Internet radio">
+        <screen position="center,center" size="3*e//4,3*e//4" title="Internet radio">
             <widget name="menu" position="0,10" size="e,e-60" itemHeight="40" font="Body" textOffset="10,0" scrollbarMode="showOnDemand"/>
             <ePixmap pixmap="buttons/key_red.png" position="0,e-40" size="40,40" alphatest="blend"/>
-            <ePixmap pixmap="buttons/key_green.png" position="e/4,e-40" size="40,40" alphatest="blend"/>
-            <ePixmap pixmap="buttons/key_blue.png" position="3*e/4,e-40" size="40,40" alphatest="blend"/>
-            <widget source="key_red" render="Label" position="40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
-            <widget source="key_green" render="Label" position="e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
-            <widget source="key_blue" render="Label" position="3*e/4+40,e-40" size="e/4-40,40" font="Regular;20" valign="center"/>
+            <ePixmap pixmap="buttons/key_green.png" position="e//4,e-40" size="40,40" alphatest="blend"/>
+            <ePixmap pixmap="buttons/key_blue.png" position="3*e//4,e-40" size="40,40" alphatest="blend"/>
+            <widget source="key_red" render="Label" position="40,e-40" size="e//4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_green" render="Label" position="e//4+40,e-40" size="e//4-40,40" font="Regular;20" valign="center"/>
+            <widget source="key_blue" render="Label" position="3*e//4+40,e-40" size="e//4-40,40" font="Regular;20" valign="center"/>
         </screen>"""
 
     def __init__(self, session, tag=""):
@@ -241,11 +241,11 @@ class GreekNetRadioPlayer(Screen):
 
     skin = """
         <screen name="GreekNetRadioPlayer" flags="wfNoBorder" position="center,0" size="e,160" title="Internet radio player" backgroundColor="#FF000000">
-            <widget source="session.CurrentService" render="Label" position="e/16,30" size="e/16,50" font="Body" valign="center" transparent="1">
+            <widget source="session.CurrentService" render="Label" position="e//16,30" size="e//16,50" font="Body" valign="center" transparent="1">
                 <convert type="ServicePosition">Position</convert>
             </widget>
-            <widget name="name" position="e/8,30" size="e/2,50" font="Body" valign="center" transparent="1"/>
-            <widget name="info" position="e/16,80" size="e/2,50" font="Body" valign="center" transparent="1"/>
+            <widget name="name" position="e//8,30" size="e//2,50" font="Body" valign="center" transparent="1"/>
+            <widget name="info" position="e//16,80" size="e//2,50" font="Body" valign="center" transparent="1"/>
         </screen>"""
 
     def __init__(self, session, name, url):
