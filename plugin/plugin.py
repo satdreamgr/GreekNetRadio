@@ -1,18 +1,18 @@
-from . import _
+import xml.dom.minidom
+
 from Components.ActionMap import ActionMap
-from Components.config import config, ConfigSubsection, ConfigSubList, ConfigNumber, ConfigText, configfile
+from Components.config import ConfigNumber, ConfigSubList, ConfigSubsection, ConfigText, config, configfile
 from Components.Label import Label
 from Components.MenuList import MenuList
 from Components.ServiceEventTracker import ServiceEventTracker
 from Components.Sources.StaticText import StaticText
+from enigma import eServiceReference, iPlayableService, iServiceInformation
 from Plugins.Plugin import PluginDescriptor
-from Screens.Console import Console
 from Screens.MessageBox import MessageBox
 from Screens.Screen import Screen
-from Tools.Directories import resolveFilename, SCOPE_PLUGINS
-from enigma import eServiceReference, iPlayableService, iServiceInformation
-import xml.dom.minidom
+from Tools.Directories import SCOPE_PLUGINS, resolveFilename
 
+from . import _
 
 config.plugins.Cradio = ConfigSubsection()
 config.plugins.Cradio.stations = ConfigSubList()
