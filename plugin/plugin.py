@@ -1,3 +1,4 @@
+import six
 import xml.dom.minidom
 
 from Components.ActionMap import ActionMap
@@ -137,7 +138,7 @@ class GreekNetRadioCategory(Screen):
             xmlList = xml.dom.minidom.parse(path)
             for stations in xmlList.getElementsByTagName(self.tag):
                 for station in stations.getElementsByTagName("station"):
-                    name = station.getAttribute("name").encode("utf8")
+                    name = six.ensure_str(station.getAttribute("name"))
                     url = str(station.getElementsByTagName("url")[0].childNodes[0].data)
                     self.stationsList.append((name, url))
             if len(self.stationsList) != 0:
