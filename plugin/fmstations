@@ -122,6 +122,9 @@
 		<station name="ΑΘΗΝΑ -- Ellada fm 94.3">
             <url>http://stream.ellada943.gr:10198</url>
         </station>
+		<station name="ΑΘΗΝΑ -- Energy 105.5">
+            <url>http://netradio.live24.gr/kiss-web-nrg</url>
+        </station>
         <station name="ΑΘΗΝΑ -- ΕΡΤ open 1ο πρόγραμμα">
             <url>http://radio.ertopen.com/erasport</url>
         </station>
@@ -375,7 +378,7 @@
             <url>http://radiopapas.duckdns.org:8000/stream</url>
         </station>
         <station name="ΑΡΚΑΔΙΑ-ΜΕΓΑΛΟΠΟΛΗ -- Radio DJ 105">
-            <url>https://stream-44.zeno.fm/d9zzyf0iomcuv?zs=qCJ91NduQxCw1qU-FSvQwA</url>
+            <url>http://solid67.streamupsolutions.com:8017/stream</url>
         </station>
 		
 	######################     ΑΡΤΑ     ##########################
@@ -2317,6 +2320,9 @@
         </station>
 		<station name="ΦΘΙΩΤΙΔΑ -- NRG 92.4">
             <url>http://s6.onweb.gr:9240/stream</url>
+        </station>
+		<station name="ΦΘΙΩΤΙΔΑ -- NRG 87.7">
+            <url>http://play.streams.gr:22019/stream</url>
         </station>
         <station name="ΦΘΙΩΤΙΔΑ -- Oscar Radio 90.9">
             <url>http://mediacp.32bit.gr:8008/stream</url>
